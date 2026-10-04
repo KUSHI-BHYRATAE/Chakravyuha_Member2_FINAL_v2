@@ -164,13 +164,12 @@ class CautiousPlannerAgent:
 
 def default_agents(seed=None):
     """Agents compared in the experiments. Add the team's AI agent here."""
-    agents = [RandomAgent(seed), AppBaselineAgent(seed), GreedyAgent(seed),
-              CautiousPlannerAgent(seed)]
+    agents = [RandomAgent(seed), GreedyAgent(seed), CautiousPlannerAgent(seed)]
     # Member 1's AI agent (src/agent.py)
     try:
         from src.agent import SmartChakravyuhaAgent
         smart = SmartChakravyuhaAgent()
-        smart.name = "Smart AI agent"
+        smart.name = "Smart AI agent (proposed)"
         agents.append(smart)
     except ImportError:
         pass  # agent file not in the repo yet -> baselines only
