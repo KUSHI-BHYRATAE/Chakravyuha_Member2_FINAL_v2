@@ -3,24 +3,26 @@ from agent import SmartChakravyuhaAgent
 
 
 # ============================================================
-# DISPLAY PARTIAL OBSERVATION
-# ============================================================
-
-def display_grid(grid):
-
-    for row in grid:
-        print(" ".join(row))
-
-    print()
-
-
-# ============================================================
-# DEMO SETTINGS
+# SETTINGS
 # ============================================================
 
 SCENARIO = "infiltration"
 INFORMATION = "MEDIUM"
 DIFFICULTY = "HIGH"
+
+
+# ============================================================
+# DISPLAY OBSERVATION
+# ============================================================
+
+def display_grid(observation):
+
+    print()
+
+    for row in observation["grid"]:
+        print(" ".join(row))
+
+    print()
 
 
 # ============================================================
@@ -33,63 +35,32 @@ env = ChakravyuhaEnvironment(
     difficulty=DIFFICULTY
 )
 
-
 agent = SmartChakravyuhaAgent()
 
-
 observation = env.reset()
-
 agent.reset()
 
 
-# ============================================================
-# DEMO HEADER
-# ============================================================
+print("=" * 70)
+print("CHAKRAVYUHA AI — SMART AGENT DEMO")
+print("=" * 70)
 
-print("=" * 65)
+print("Scenario    :", SCENARIO.upper())
+print("Information :", INFORMATION)
+print("Difficulty  :", DIFFICULTY)
 
-print(
-    "SMART CHAKRAVYUHA AGENT — "
-    "PARTIAL OBSERVATION DEMO"
-)
+print("\nLegend:")
+print("P = Agent")
+print("G = Goal")
+print("X = Known Obstacle")
+print("E = Known Enemy")
+print("? = Unknown Cell")
+print(". = Revealed Safe Cell")
 
-print("=" * 65)
-
-
-print(
-    f"\nScenario    : "
-    f"{SCENARIO.upper()}"
-)
-
-print(
-    f"Information : "
-    f"{INFORMATION}"
-)
-
-print(
-    f"Difficulty  : "
-    f"{DIFFICULTY}"
-)
-
-
-print(
-    f"\nStart       : "
-    f"{observation['agent']}"
-)
-
-print(
-    f"Goal        : "
-    f"{observation['goal']}"
-)
-
-
-print(
-    "\nInitial Partial Observation:\n"
-)
-
+print("\nINITIAL OBSERVATION")
 
 display_grid(
-    observation["grid"]
+    observation
 )
 
 
@@ -99,76 +70,43 @@ display_grid(
 
 while not observation["terminal"]:
 
-    previous_position = (
-        observation["agent"]
-    )
+    old_position = observation["agent"]
 
-
-    action, scores = (
-        agent.choose_action(
-            observation
-        )
+    action, scores = agent.choose_action(
+        observation
     )
 
 
     if action is None:
-
-        print(
-            "No valid action available."
-        )
-
+        print("No valid action available.")
         break
 
 
-    print("-" * 65)
-
-    print(
-        f"STEP "
-        f"{observation['step'] + 1}"
-    )
-
-    print(
-        f"Current Position : "
-        f"{previous_position}"
-    )
-
-    print(
-        f"Uncertainty      : "
-        f"{observation['uncertainty']}%"
-    )
-
-    print(
-        f"Chosen Action    : "
-        f"{action}"
-    )
-
+    # --------------------------------------------------------
+    # EXPLAIN DECISION
+    # --------------------------------------------------------
 
     if action == "SCAN":
 
-        print(
-            "Decision Reason   : "
-            "Gathering information "
-            "under uncertainty"
+        reason = (
+            "Uncertainty-aware information gathering"
         )
 
-    elif action in {
+    elif action in [
         "UP",
         "DOWN",
         "LEFT",
         "RIGHT"
-    }:
+    ]:
 
-        print(
-            "Decision Reason   : "
-            "A* goal-directed "
-            "risk-aware movement"
+        reason = (
+            "A* goal-directed / risk-aware planning"
         )
 
     else:
 
-        print(
-            "Decision Reason   : "
-            "Utility-based fallback"
+        reason = (
+            "Fallback action"
         )
 
 
@@ -177,34 +115,45 @@ while not observation["terminal"]:
     )
 
 
+    print("-" * 70)
+
     print(
-        f"New Position     : "
-        f"{observation['agent']}"
+        f"Step {observation['step']}"
     )
 
     print(
-        f"Environment Event: "
-        f"{observation['last_event']}"
+        "Position:",
+        old_position,
+        "->",
+        observation["agent"]
     )
 
     print(
-        f"Current Reward   : "
-        f"{observation['total_reward']}"
+        "Selected Action:",
+        action
     )
 
     print(
-        f"Scans Used       : "
-        f"{observation['scans']}"
+        "Decision Reason:",
+        reason
     )
-
 
     print(
-        "\nAgent's Partial View:\n"
+        "Environment Event:",
+        observation["last_event"]
     )
 
+    print(
+        "Uncertainty:",
+        f"{observation['uncertainty']:.2f}%"
+    )
 
-    display_grid(
-        observation["grid"]
+    print(
+        "Total Reward:",
+        round(
+            observation["total_reward"],
+            2
+        )
     )
 
 
@@ -213,50 +162,46 @@ while not observation["terminal"]:
 # ============================================================
 
 print("\n")
-print("=" * 65)
+print("=" * 70)
 print("FINAL RESULT")
-print("=" * 65)
-
+print("=" * 70)
 
 print(
-    f"Success      : "
-    f"{observation['success']}"
+    "Success      :",
+    observation["success"]
 )
 
 print(
-    f"Final Event  : "
-    f"{observation['last_event']}"
+    "Final Event  :",
+    observation["last_event"]
 )
 
 print(
-    f"Total Steps  : "
-    f"{observation['step']}"
+    "Final Position:",
+    observation["agent"]
 )
 
 print(
-    f"Total Reward : "
-    f"{observation['total_reward']}"
+    "Goal         :",
+    observation["goal"]
 )
 
 print(
-    f"Total Scans  : "
-    f"{observation['scans']}"
+    "Steps        :",
+    observation["step"]
 )
 
+print(
+    "Scans        :",
+    observation["scans"]
+)
 
-if observation["success"]:
-
-    print(
-        "\n✅ SMART AGENT "
-        "SUCCESSFULLY REACHED THE GOAL"
+print(
+    "Total Reward :",
+    round(
+        observation["total_reward"],
+        2
     )
+)
 
-else:
-
-    print(
-        "\n❌ SMART AGENT "
-        "DID NOT REACH THE GOAL"
-    )
-
-
-print("=" * 65)
+print("=" * 70)
