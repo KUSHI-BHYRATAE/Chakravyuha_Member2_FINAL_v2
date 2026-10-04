@@ -1,63 +1,58 @@
-
 import random
 import heapq
 
 
 # ============================================================
-# 1. RANDOM BASELINE AGENT
+# RANDOM BASELINE
 # ============================================================
 
 def random_agent(observation):
-    """
-    Select a random action from the currently valid actions.
-    """
-
-    valid_actions = observation["valid_actions"]
-
-    if not valid_actions:
-        return None
-
-    return random.choice(valid_actions)
-
-
-# ============================================================
-# 2. RULE-BASED BASELINE AGENT
-# ============================================================
-
-def rule_based_agent(observation):
-    """
-    Simple baseline agent.
-
-    Uses only partial observations.
-    """
-
     valid = observation["valid_actions"]
 
     if not valid:
         return None
 
-    uncertainty = observation["uncertainty"]
+    return random.choice(valid)
 
-    x, y = observation["agent"]
-    gx, gy = observation["goal"]
 
-    if uncertainty > 70 and "SCAN" in valid:
+# ============================================================
+# RULE-BASED BASELINE
+# ============================================================
+
+def rule_based_agent(observation):
+    valid = observation["valid_actions"]
+
+    if not valid:
+        return None
+
+    r, c = observation["agent"]
+    gr, gc = observation["goal"]
+
+    # Simple uncertainty rule
+    if observation["uncertainty"] > 70 and "SCAN" in valid:
         return "SCAN"
 
-    if x > gx and "UP" in valid:
-        return "UP"
+    preferred = []
 
-    if x < gx and "DOWN" in valid:
-        return "DOWN"
+    if r > gr:
+        preferred.append("UP")
 
-    if y > gy and "LEFT" in valid:
-        return "LEFT"
+    if r < gr:
+        preferred.append("DOWN")
 
-    if y < gy and "RIGHT" in valid:
-        return "RIGHT"
+    if c > gc:
+        preferred.append("LEFT")
 
-    if "SCAN" in valid:
-        return "SCAN"
+    if c < gc:
+        preferred.append("RIGHT")
+
+    for action in preferred:
+        if action in valid:
+            return action
+
+    for action in ["UP", "DOWN", "LEFT", "RIGHT"]:
+        if action in valid:
+            return action
 
     if "WAIT" in valid:
         return "WAIT"
@@ -66,281 +61,117 @@ def rule_based_agent(observation):
 
 
 # ============================================================
-# 3. PROPOSED SMART A* AGENT
+# PROPOSED INTELLIGENT AGENT
 # ============================================================
 
 class SmartChakravyuhaAgent:
-    """
-    Intelligent agent for the partially observable
-    Chakravyuha environment.
 
-    Features:
-    - Partial-observation decision making
-    - Internal belief-map memory
-    - A* path planning
-    - Goal-directed movement
-    - Known threat avoidance
-    - Risk-aware exploration
-    - Uncertainty-aware scanning
-    - Revisit/loop avoidance
-    - Utility-based fallback
-
-    The agent never accesses ground_truth() or true_world().
-    """
+    MOVES = {
+        "UP": (-1, 0),
+        "DOWN": (1, 0),
+        "LEFT": (0, -1),
+        "RIGHT": (0, 1)
+    }
 
     def __init__(self):
         self.reset()
 
-
-    # ========================================================
-    # RESET MEMORY
-    # ========================================================
-
     def reset(self):
-
-        self.visited = {}
-
-        self.scanned_positions = set()
-
         self.known_map = {}
-
+        self.visited = {}
+        self.scanned_positions = set()
         self.last_position = None
-
         self.last_action = None
 
-        self.best_distance = float("inf")
-
-        self.no_progress_count = 0
-
-
     # ========================================================
-    # MANHATTAN DISTANCE
+    # BASIC HELPERS
     # ========================================================
 
     def _distance(self, a, b):
-
         return (
             abs(a[0] - b[0])
             +
             abs(a[1] - b[1])
         )
 
-
-    # ========================================================
-    # UPDATE BELIEF MAP
-    # ========================================================
-
     def _update_memory(self, observation):
-
         grid = observation["grid"]
 
         for r in range(len(grid)):
-
             for c in range(len(grid[r])):
 
                 cell = grid[r][c]
 
                 if cell != "?":
-
                     self.known_map[(r, c)] = cell
 
-
     # ========================================================
-    # COUNT UNKNOWN CELLS
+    # INFORMATION GAIN
     # ========================================================
 
-    def _unknown_nearby(
-        self,
-        position,
-        grid,
-        radius=1
-    ):
+    def _information_gain(self, observation):
 
-        r, c = position
+        grid = observation["grid"]
+        current = tuple(observation["agent"])
 
-        count = 0
+        r, c = current
+        radius = 2
+        gain = 0
 
-        for dr in range(-radius, radius + 1):
-
-            for dc in range(-radius, radius + 1):
-
-                if dr == 0 and dc == 0:
-                    continue
-
-                nr = r + dr
-                nc = c + dc
+        for nr in range(len(grid)):
+            for nc in range(len(grid[0])):
 
                 if (
-                    0 <= nr < len(grid)
-                    and
-                    0 <= nc < len(grid[0])
+                    abs(nr - r) + abs(nc - c) <= radius
+                    and grid[nr][nc] == "?"
                 ):
+                    gain += 1
 
-                    if grid[nr][nc] == "?":
-                        count += 1
-
-        return count
-
+        return gain
 
     # ========================================================
-    # KNOWN ENEMY RISK
+    # THREAT RISK
     # ========================================================
 
     def _enemy_risk(self, position):
 
         risk = 0
 
-        for enemy_position, cell in self.known_map.items():
+        for pos, cell in self.known_map.items():
 
             if cell != "E":
                 continue
 
-            distance = self._distance(
-                position,
-                enemy_position
-            )
+            d = self._distance(position, pos)
 
-            if distance == 0:
+            if d == 0:
                 return 1000
 
-            elif distance == 1:
-                risk += 20
+            elif d == 1:
+                risk += 25
 
-            elif distance == 2:
+            elif d == 2:
                 risk += 6
 
         return risk
 
-
     # ========================================================
-    # GET A* NEIGHBOURS
-    # ========================================================
-
-    def _get_neighbours(
-        self,
-        position,
-        grid,
-        start,
-        valid_actions
-    ):
-
-        r, c = position
-
-        directions = {
-            "UP": (-1, 0),
-            "DOWN": (1, 0),
-            "LEFT": (0, -1),
-            "RIGHT": (0, 1)
-        }
-
-        neighbours = []
-
-        rows = len(grid)
-        cols = len(grid[0])
-
-        for action, (dr, dc) in directions.items():
-
-            nr = r + dr
-            nc = c + dc
-
-            if not (
-                0 <= nr < rows
-                and
-                0 <= nc < cols
-            ):
-                continue
-
-            # At the real current position, use only
-            # observation-safe valid actions.
-            if (
-                position == start
-                and
-                action not in valid_actions
-            ):
-                continue
-
-            next_position = (nr, nc)
-
-            cell = self.known_map.get(
-                next_position,
-                "?"
-            )
-
-            # Known obstacle or known enemy
-            if cell in ("X", "E"):
-                continue
-
-            # --------------------------------------------
-            # BASE MOVEMENT COST
-            # --------------------------------------------
-
-            if cell == "G":
-
-                cost = 0.5
-
-            elif cell in (".", "P"):
-
-                cost = 1.0
-
-            else:
-
-                # Unknown cells are traversable,
-                # but slightly risky.
-                cost = 2.2
-
-            # --------------------------------------------
-            # REVISIT PENALTY
-            # --------------------------------------------
-
-            visits = self.visited.get(
-                next_position,
-                0
-            )
-
-            cost += visits * 2.5
-
-            # --------------------------------------------
-            # THREAT RISK
-            # --------------------------------------------
-
-            cost += self._enemy_risk(
-                next_position
-            )
-
-            neighbours.append(
-                (
-                    next_position,
-                    action,
-                    cost
-                )
-            )
-
-        return neighbours
-
-
-    # ========================================================
-    # A* PATH PLANNING
+    # A* PLANNING
     # ========================================================
 
-    def _astar(
-        self,
-        start,
-        goal,
-        grid,
-        valid_actions
-    ):
+    def _astar(self, start, goal, observation):
 
-        frontier = []
+        rows = len(observation["grid"])
+        cols = len(observation["grid"][0])
 
+        valid_actions = observation["valid_actions"]
+
+        queue = []
         counter = 0
 
         heapq.heappush(
-            frontier,
-            (
-                0,
-                counter,
-                start
-            )
+            queue,
+            (0, counter, start)
         )
 
         came_from = {
@@ -349,96 +180,114 @@ class SmartChakravyuhaAgent:
 
         action_from = {}
 
-        cost_so_far = {
+        g_score = {
             start: 0
         }
 
-        while frontier:
+        while queue:
 
-            _, _, current = heapq.heappop(
-                frontier
-            )
+            _, _, current = heapq.heappop(queue)
 
             if current == goal:
                 break
 
-            neighbours = self._get_neighbours(
-                current,
-                grid,
-                start,
-                valid_actions
-            )
+            for action, (dr, dc) in self.MOVES.items():
 
-            for (
-                next_position,
-                action,
-                move_cost
-            ) in neighbours:
+                nr = current[0] + dr
+                nc = current[1] + dc
 
-                new_cost = (
-                    cost_so_far[current]
+                if not (
+                    0 <= nr < rows
+                    and 0 <= nc < cols
+                ):
+                    continue
+
+                # First action must be currently valid
+                if (
+                    current == start
+                    and action not in valid_actions
+                ):
+                    continue
+
+                new_pos = (nr, nc)
+
+                cell = self.known_map.get(
+                    new_pos,
+                    "?"
+                )
+
+                # Never intentionally enter known danger
+                if cell in ("X", "E"):
+                    continue
+
+                # Cost model
+                if cell == "G":
+                    move_cost = 0.5
+
+                elif cell in (".", "P"):
+                    move_cost = 1.0
+
+                else:
+                    # Unknown cells carry uncertainty cost
+                    move_cost = 1.6
+
+                # Small revisit penalty
+                move_cost += (
+                    0.35
+                    *
+                    self.visited.get(
+                        new_pos,
+                        0
+                    )
+                )
+
+                # Known threat risk
+                move_cost += self._enemy_risk(
+                    new_pos
+                )
+
+                new_g = (
+                    g_score[current]
                     +
                     move_cost
                 )
 
                 if (
-                    next_position not in cost_so_far
-                    or
-                    new_cost
-                    <
-                    cost_so_far[next_position]
+                    new_pos not in g_score
+                    or new_g < g_score[new_pos]
                 ):
 
-                    cost_so_far[next_position] = (
-                        new_cost
-                    )
+                    g_score[new_pos] = new_g
+                    came_from[new_pos] = current
+                    action_from[new_pos] = action
 
-                    # A*: f(n) = g(n) + h(n)
-                    priority = (
-                        new_cost
-                        +
-                        self._distance(
-                            next_position,
-                            goal
-                        )
+                    heuristic = self._distance(
+                        new_pos,
+                        goal
                     )
 
                     counter += 1
 
                     heapq.heappush(
-                        frontier,
+                        queue,
                         (
-                            priority,
+                            new_g + heuristic,
                             counter,
-                            next_position
+                            new_pos
                         )
                     )
 
-                    came_from[next_position] = (
-                        current
-                    )
-
-                    action_from[next_position] = (
-                        action
-                    )
-
-        # No route found
         if goal not in came_from:
             return []
 
-        # --------------------------------------------
-        # RECONSTRUCT PATH
-        # --------------------------------------------
-
         path = []
-
         current = goal
 
         while current != start:
 
-            action = action_from[current]
-
-            path.append(action)
+            path.append(
+                action_from[current]
+            )
 
             current = came_from[current]
 
@@ -446,14 +295,84 @@ class SmartChakravyuhaAgent:
 
         return path
 
+    # ========================================================
+    # SCAN UTILITY
+    # ========================================================
+
+    def _should_scan(self, observation, path):
+
+        current = tuple(
+            observation["agent"]
+        )
+
+        if "SCAN" not in observation["valid_actions"]:
+            return False
+
+        # Do not scan same position repeatedly
+        if current in self.scanned_positions:
+            return False
+
+        uncertainty = observation["uncertainty"]
+
+        gain = self._information_gain(
+            observation
+        )
+
+        scans_used = observation["scans"]
+
+        # Dynamic scan budget
+        if uncertainty >= 80:
+            max_scans = 3
+
+        elif uncertainty >= 55:
+            max_scans = 2
+
+        else:
+            max_scans = 1
+
+        if scans_used >= max_scans:
+            return False
+
+        # Information-gathering utility
+        scan_utility = (
+            gain * 1.5
+            +
+            uncertainty * 0.05
+            -
+            scans_used * 4
+        )
+
+        # Scan after discovering a blocked route
+        if (
+            observation["last_event"] == "blocked_move"
+            and gain >= 2
+        ):
+            return True
+
+        # High uncertainty + useful local information
+        if (
+            uncertainty > 70
+            and gain >= 3
+            and scan_utility > 8
+        ):
+            return True
+
+        # Long uncertain route
+        if (
+            len(path) >= 6
+            and uncertainty > 50
+            and gain >= 4
+            and scan_utility > 9
+        ):
+            return True
+
+        return False
 
     # ========================================================
     # UTILITY-BASED FALLBACK
     # ========================================================
 
-    def _fallback_action(self, observation):
-
-        valid = observation["valid_actions"]
+    def _fallback(self, observation):
 
         current = tuple(
             observation["agent"]
@@ -463,147 +382,85 @@ class SmartChakravyuhaAgent:
             observation["goal"]
         )
 
+        valid = observation[
+            "valid_actions"
+        ]
+
         grid = observation["grid"]
 
-        directions = {
-            "UP": (-1, 0),
-            "DOWN": (1, 0),
-            "LEFT": (0, -1),
-            "RIGHT": (0, 1)
-        }
+        scores = {}
 
         current_distance = self._distance(
             current,
             goal
         )
 
-        scores = {}
+        for action, (dr, dc) in self.MOVES.items():
 
-        for action in valid:
+            if action not in valid:
+                continue
 
-            # ============================================
-            # MOVEMENT
-            # ============================================
+            new_pos = (
+                current[0] + dr,
+                current[1] + dc
+            )
 
-            if action in directions:
+            cell = grid[
+                new_pos[0]
+            ][
+                new_pos[1]
+            ]
 
-                dr, dc = directions[action]
+            if cell in ("X", "E"):
+                continue
 
-                nr = current[0] + dr
-                nc = current[1] + dc
+            new_distance = self._distance(
+                new_pos,
+                goal
+            )
 
-                next_position = (
-                    nr,
-                    nc
-                )
+            score = 0
 
-                cell = grid[nr][nc]
+            # Goal progress
+            score += (
+                current_distance
+                -
+                new_distance
+            ) * 8
 
-                if cell == "E":
+            # Goal itself
+            if cell == "G":
+                score += 100
 
-                    scores[action] = -1000
-                    continue
+            # Exploration value
+            if cell == "?":
+                score += 2
 
-                score = 0
-
-                new_distance = self._distance(
-                    next_position,
-                    goal
-                )
-
-                # Goal progress
-                if new_distance < current_distance:
-                    score += 10
-
-                elif new_distance == current_distance:
-                    score += 2
-
-                else:
-                    score -= 3
-
-                # Cell knowledge
-                if cell == "G":
-                    score += 100
-
-                elif cell == "?":
-                    score += 4
-
-                elif cell == ".":
-                    score += 1
-
-                # Revisit penalty
-                visits = self.visited.get(
-                    next_position,
+            # Revisit cost
+            score -= (
+                self.visited.get(
+                    new_pos,
                     0
                 )
+                * 5
+            )
 
-                score -= visits * 7
+            # Threat cost
+            score -= self._enemy_risk(
+                new_pos
+            )
 
-                # Enemy risk
-                score -= self._enemy_risk(
-                    next_position
-                )
-
-                # Encourage exploration when stuck
-                if (
-                    self.no_progress_count >= 3
-                    and
-                    visits == 0
-                ):
-                    score += 8
-
-                # Avoid immediate backtracking
-                if (
-                    self.last_position is not None
-                    and
-                    next_position == self.last_position
-                ):
-                    score -= 6
-
-                scores[action] = score
-
-            # ============================================
-            # SCAN
-            # ============================================
-
-            elif action == "SCAN":
-
-                unknown = self._unknown_nearby(
-                    current,
-                    grid,
-                    radius=1
-                )
-
-                if current in self.scanned_positions:
-
-                    scores[action] = -25
-
-                elif unknown == 0:
-
-                    scores[action] = -15
-
-                else:
-
-                    scores[action] = 6
-
-            # ============================================
-            # WAIT
-            # ============================================
-
-            elif action == "WAIT":
-
-                scores[action] = -30
+            scores[action] = score
 
         if not scores:
             return None, {}
 
-        best_action = max(
+        best = max(
             scores,
             key=scores.get
         )
 
-        return best_action, scores
-
+        return best, scores
 
     # ========================================================
     # MAIN DECISION ENGINE
@@ -611,7 +468,9 @@ class SmartChakravyuhaAgent:
 
     def choose_action(self, observation):
 
-        valid = observation["valid_actions"]
+        valid = observation[
+            "valid_actions"
+        ]
 
         if not valid:
             return None, {}
@@ -624,74 +483,66 @@ class SmartChakravyuhaAgent:
             observation["goal"]
         )
 
-        grid = observation["grid"]
-
-        uncertainty = observation["uncertainty"]
-
-        # --------------------------------------------
-        # 1. Update belief map
-        # --------------------------------------------
-
+        # Update belief/memory map
         self._update_memory(
             observation
         )
 
-        # --------------------------------------------
-        # 2. Record visit
-        # --------------------------------------------
-
         self.visited[current] = (
-            self.visited.get(current, 0)
+            self.visited.get(
+                current,
+                0
+            )
             +
             1
         )
 
-        # --------------------------------------------
-        # 3. Monitor progress
-        # --------------------------------------------
+        # ----------------------------------------------------
+        # GOAL IMMEDIATELY REACHABLE
+        # ----------------------------------------------------
 
-        current_distance = self._distance(
+        if self._distance(current, goal) == 1:
+
+            for action, (dr, dc) in self.MOVES.items():
+
+                if action not in valid:
+                    continue
+
+                new_pos = (
+                    current[0] + dr,
+                    current[1] + dc
+                )
+
+                if new_pos == goal:
+
+                    self.last_position = current
+                    self.last_action = action
+
+                    return (
+                        action,
+                        {
+                            action: 1000
+                        }
+                    )
+
+        # ----------------------------------------------------
+        # GENERATE A* PLAN
+        # ----------------------------------------------------
+
+        path = self._astar(
             current,
-            goal
+            goal,
+            observation
         )
 
-        if current_distance < self.best_distance:
+        # ----------------------------------------------------
+        # INFORMATION-GATHERING DECISION
+        # ----------------------------------------------------
 
-            self.best_distance = current_distance
-
-            self.no_progress_count = 0
-
-        else:
-
-            self.no_progress_count += 1
-
-        # --------------------------------------------
-        # 4. Uncertainty-aware scan
-        # --------------------------------------------
-
-        unknown_count = self._unknown_nearby(
-            current,
-            grid,
-            radius=1
-        )
-
-        should_scan = (
-            "SCAN" in valid
-            and
-            current not in self.scanned_positions
-            and
-            unknown_count >= 2
-            and
-            current_distance > 1
-            and
-            (
-                uncertainty > 60
-                or
-                self.no_progress_count >= 4
-            )
-        )
-
-        if should_scan:
+        if self._should_scan(
+            observation,
+            path
+        ):
 
             self.scanned_positions.add(
                 current
@@ -702,56 +553,87 @@ class SmartChakravyuhaAgent:
             return (
                 "SCAN",
                 {
-                    "SCAN": 10
+                    "SCAN":
+                    self._information_gain(
+                        observation
+                    )
                 }
             )
 
-        # --------------------------------------------
-        # 5. A* path planning
-        # --------------------------------------------
-
-        path = self._astar(
-            start=current,
-            goal=goal,
-            grid=grid,
-            valid_actions=valid
-        )
+        # ----------------------------------------------------
+        # FOLLOW A* PLAN
+        # ----------------------------------------------------
 
         if path:
 
-            planned_action = path[0]
+            action = path[0]
 
-            if planned_action in valid:
+            if action in valid:
 
                 self.last_position = current
-
-                self.last_action = (
-                    planned_action
-                )
+                self.last_action = action
 
                 return (
-                    planned_action,
+                    action,
                     {
-                        planned_action: 20
+                        action: 100
                     }
                 )
 
-        # --------------------------------------------
-        # 6. Utility fallback
-        # --------------------------------------------
+        # ----------------------------------------------------
+        # UTILITY FALLBACK
+        # ----------------------------------------------------
 
-        action, scores = self._fallback_action(
+        action, scores = self._fallback(
             observation
         )
 
-        if action == "SCAN":
+        if action is not None:
+
+            self.last_position = current
+            self.last_action = action
+
+            return (
+                action,
+                scores
+            )
+
+        # ----------------------------------------------------
+        # INFORMATION FALLBACK
+        # ----------------------------------------------------
+
+        if (
+            "SCAN" in valid
+            and current not in self.scanned_positions
+        ):
 
             self.scanned_positions.add(
                 current
             )
 
-        self.last_position = current
+            return (
+                "SCAN",
+                {
+                    "SCAN": 1
+                }
+            )
 
-        self.last_action = action
+        # ----------------------------------------------------
+        # LAST RESORT
+        # ----------------------------------------------------
 
-        return action, scores
+        if "WAIT" in valid:
+
+            return (
+                "WAIT",
+                {
+                    "WAIT": -100
+                }
+            )
+
+        return None, {}
+
+
+print(
+    "✅ FINAL SmartChakravyuhaAgent V3 loaded!"
+)
