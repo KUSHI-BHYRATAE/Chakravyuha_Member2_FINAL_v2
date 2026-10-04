@@ -29,36 +29,36 @@ Random,infiltration,LOW,LOW,26,0,1,0,2,-11.8,0,0,86.4
 Random,infiltration,LOW,LOW,27,0,0,1,45,-3.05,13,0,76.5
 Random,infiltration,LOW,LOW,28,0,0,1,45,-1.85,8,0,75.3
 Random,infiltration,LOW,LOW,29,0,1,0,9,-12.9,4,0,85.2
-App baseline (current),infiltration,LOW,LOW,0,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,1,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,2,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,3,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,4,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,5,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,6,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,7,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,8,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,9,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,10,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,11,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,12,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,13,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,14,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,15,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,16,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,17,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,18,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,19,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,20,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,21,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,22,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,23,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,24,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,25,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,26,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,27,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,28,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,LOW,29,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,0,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,1,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,2,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,3,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,4,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,5,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,6,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,7,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,8,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,9,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,10,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,11,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,12,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,13,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,14,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,15,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,16,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,17,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,18,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,19,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,20,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,21,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,22,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,23,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,24,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,25,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,26,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,27,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,28,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,LOW,29,0,0,1,45,-24.75,45,0,88.9
 Greedy (rule-based),infiltration,LOW,LOW,0,1,0,0,4,26.8,0,0,77.8
 Greedy (rule-based),infiltration,LOW,LOW,1,1,0,0,4,26.8,0,0,77.8
 Greedy (rule-based),infiltration,LOW,LOW,2,1,0,0,4,26.8,0,0,77.8
@@ -119,6 +119,36 @@ Cautious planner,infiltration,LOW,LOW,26,1,0,0,4,26.8,0,0,77.8
 Cautious planner,infiltration,LOW,LOW,27,1,0,0,4,26.8,0,0,77.8
 Cautious planner,infiltration,LOW,LOW,28,1,0,0,4,26.8,0,0,77.8
 Cautious planner,infiltration,LOW,LOW,29,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,0,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,1,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,2,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,3,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,4,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,5,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,6,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,7,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,8,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,9,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,10,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,11,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,12,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,13,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,14,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,15,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,16,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,17,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,18,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,19,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,20,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,21,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,22,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,23,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,24,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,25,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,26,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,27,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,28,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,infiltration,LOW,LOW,29,1,0,0,4,26.8,0,0,77.8
 Random,infiltration,LOW,MEDIUM,0,0,1,0,2,-11.8,0,0,86.4
 Random,infiltration,LOW,MEDIUM,1,0,1,0,27,-13.35,5,0,81.5
 Random,infiltration,LOW,MEDIUM,2,0,0,1,45,-4.95,5,0,76.5
@@ -149,36 +179,36 @@ Random,infiltration,LOW,MEDIUM,26,0,1,0,6,-12.45,1,0,85.2
 Random,infiltration,LOW,MEDIUM,27,0,1,0,4,-12.4,0,0,86.4
 Random,infiltration,LOW,MEDIUM,28,0,1,0,3,-12.1,0,0,86.4
 Random,infiltration,LOW,MEDIUM,29,0,1,0,10,-13.2,4,0,85.2
-App baseline (current),infiltration,LOW,MEDIUM,0,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,1,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,2,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,3,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,4,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,5,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,6,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,7,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,8,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,9,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,10,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,11,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,12,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,13,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,14,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,15,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,16,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,17,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,18,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,19,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,20,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,21,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,22,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,23,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,24,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,25,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,26,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,27,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,28,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,MEDIUM,29,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,0,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,1,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,2,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,3,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,4,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,5,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,6,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,7,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,8,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,9,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,10,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,11,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,12,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,13,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,14,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,15,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,16,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,17,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,18,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,19,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,20,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,21,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,22,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,23,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,24,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,25,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,26,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,27,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,28,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,MEDIUM,29,0,0,1,45,-24.75,45,0,88.9
 Greedy (rule-based),infiltration,LOW,MEDIUM,0,1,0,0,20,28.4,0,0,51.9
 Greedy (rule-based),infiltration,LOW,MEDIUM,1,1,0,0,30,29.4,0,0,46.9
 Greedy (rule-based),infiltration,LOW,MEDIUM,2,1,0,0,20,28.4,0,0,50.6
@@ -239,6 +269,36 @@ Cautious planner,infiltration,LOW,MEDIUM,26,1,0,0,22,28.6,0,0,46.9
 Cautious planner,infiltration,LOW,MEDIUM,27,1,0,0,22,28.6,0,0,46.9
 Cautious planner,infiltration,LOW,MEDIUM,28,1,0,0,22,28.6,0,0,46.9
 Cautious planner,infiltration,LOW,MEDIUM,29,1,0,0,22,28.6,0,0,46.9
+Smart AI agent,infiltration,LOW,MEDIUM,0,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,1,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,2,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,3,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,4,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,5,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,6,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,7,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,8,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,9,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,10,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,11,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,12,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,13,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,14,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,15,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,16,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,17,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,18,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,19,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,20,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,21,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,22,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,23,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,24,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,25,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,26,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,27,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,28,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,infiltration,LOW,MEDIUM,29,1,0,0,25,31.55,7,0,45.7
 Random,infiltration,LOW,HIGH,0,0,1,0,15,-12.4,6,0,81.5
 Random,infiltration,LOW,HIGH,1,0,1,0,7,-10.6,2,0,81.5
 Random,infiltration,LOW,HIGH,2,0,1,0,11,-13.5,4,0,85.2
@@ -269,36 +329,36 @@ Random,infiltration,LOW,HIGH,26,0,1,0,3,-11.65,1,0,85.2
 Random,infiltration,LOW,HIGH,27,0,1,0,10,-11.5,2,0,81.5
 Random,infiltration,LOW,HIGH,28,0,1,0,5,-13.2,2,0,86.4
 Random,infiltration,LOW,HIGH,29,0,1,0,9,-12.8,2,0,86.4
-App baseline (current),infiltration,LOW,HIGH,0,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,1,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,2,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,3,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,4,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,5,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,6,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,7,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,8,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,9,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,10,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,11,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,12,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,13,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,14,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,15,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,16,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,17,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,18,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,19,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,20,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,21,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,22,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,23,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,24,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,25,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,26,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,27,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,28,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),infiltration,LOW,HIGH,29,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,0,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,1,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,2,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,3,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,4,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,5,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,6,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,7,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,8,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,9,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,10,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,11,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,12,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,13,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,14,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,15,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,16,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,17,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,18,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,19,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,20,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,21,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,22,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,23,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,24,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,25,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,26,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,27,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,28,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,infiltration,LOW,HIGH,29,0,0,1,45,-24.75,45,0,88.9
 Greedy (rule-based),infiltration,LOW,HIGH,0,1,0,0,40,30.4,0,0,32.1
 Greedy (rule-based),infiltration,LOW,HIGH,1,1,0,0,44,30.8,0,0,42.0
 Greedy (rule-based),infiltration,LOW,HIGH,2,1,0,0,32,29.6,0,0,40.7
@@ -359,6 +419,36 @@ Cautious planner,infiltration,LOW,HIGH,26,1,0,0,30,29.4,0,0,34.6
 Cautious planner,infiltration,LOW,HIGH,27,1,0,0,30,29.4,0,0,34.6
 Cautious planner,infiltration,LOW,HIGH,28,1,0,0,30,29.4,0,0,34.6
 Cautious planner,infiltration,LOW,HIGH,29,1,0,0,30,29.4,0,0,34.6
+Smart AI agent,infiltration,LOW,HIGH,0,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,1,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,2,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,3,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,4,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,5,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,6,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,7,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,8,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,9,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,10,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,11,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,12,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,13,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,14,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,15,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,16,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,17,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,18,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,19,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,20,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,21,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,22,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,23,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,24,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,25,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,26,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,27,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,28,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,infiltration,LOW,HIGH,29,0,0,1,45,-2.35,24,0,50.6
 Random,infiltration,MEDIUM,LOW,0,0,1,0,3,-12.1,0,0,90.1
 Random,infiltration,MEDIUM,LOW,1,0,1,0,5,-10.95,1,0,86.4
 Random,infiltration,MEDIUM,LOW,2,0,0,1,45,-0.3,5,0,67.9
@@ -389,36 +479,36 @@ Random,infiltration,MEDIUM,LOW,26,0,1,0,11,-12.3,4,0,76.5
 Random,infiltration,MEDIUM,LOW,27,0,1,0,9,-12.4,2,0,86.4
 Random,infiltration,MEDIUM,LOW,28,0,1,0,3,-11.15,1,0,86.4
 Random,infiltration,MEDIUM,LOW,29,0,0,1,45,-3.1,10,0,71.6
-App baseline (current),infiltration,MEDIUM,LOW,0,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,1,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,2,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,3,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,4,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,5,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,6,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,7,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,8,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,9,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,10,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,11,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,12,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,13,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,14,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,15,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,16,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,17,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,18,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,19,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,20,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,21,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,22,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,23,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,24,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,25,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,26,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,27,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,28,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,LOW,29,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,0,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,1,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,2,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,3,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,4,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,5,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,6,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,7,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,8,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,9,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,10,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,11,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,12,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,13,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,14,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,15,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,16,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,17,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,18,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,19,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,20,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,21,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,22,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,23,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,24,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,25,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,26,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,27,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,28,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,LOW,29,0,0,1,45,-23.55,45,0,88.9
 Greedy (rule-based),infiltration,MEDIUM,LOW,0,1,0,0,4,26.8,0,0,80.2
 Greedy (rule-based),infiltration,MEDIUM,LOW,1,1,0,0,4,26.8,0,0,80.2
 Greedy (rule-based),infiltration,MEDIUM,LOW,2,1,0,0,4,26.8,0,0,80.2
@@ -479,6 +569,36 @@ Cautious planner,infiltration,MEDIUM,LOW,26,1,0,0,4,26.8,0,0,80.2
 Cautious planner,infiltration,MEDIUM,LOW,27,1,0,0,4,26.8,0,0,80.2
 Cautious planner,infiltration,MEDIUM,LOW,28,1,0,0,4,26.8,0,0,80.2
 Cautious planner,infiltration,MEDIUM,LOW,29,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,0,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,1,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,2,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,3,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,4,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,5,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,6,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,7,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,8,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,9,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,10,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,11,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,12,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,13,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,14,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,15,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,16,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,17,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,18,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,19,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,20,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,21,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,22,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,23,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,24,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,25,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,26,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,27,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,28,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,infiltration,MEDIUM,LOW,29,1,0,0,4,26.8,0,0,80.2
 Random,infiltration,MEDIUM,MEDIUM,0,0,1,0,3,-12.1,0,0,90.1
 Random,infiltration,MEDIUM,MEDIUM,1,0,1,0,35,-9.2,4,0,67.9
 Random,infiltration,MEDIUM,MEDIUM,2,0,1,0,20,-11.65,5,0,82.7
@@ -509,36 +629,36 @@ Random,infiltration,MEDIUM,MEDIUM,26,0,1,0,8,-11.85,1,0,86.4
 Random,infiltration,MEDIUM,MEDIUM,27,0,0,1,45,-3.25,11,0,75.3
 Random,infiltration,MEDIUM,MEDIUM,28,0,1,0,7,-11.9,4,0,85.2
 Random,infiltration,MEDIUM,MEDIUM,29,0,1,0,2,-11.8,0,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,0,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,1,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,2,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,3,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,4,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,5,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,6,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,7,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,8,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,9,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,10,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,11,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,12,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,13,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,14,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,15,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,16,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,17,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,18,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,19,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,20,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,21,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,22,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,23,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,24,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,25,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,26,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,27,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,28,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,MEDIUM,29,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,0,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,1,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,2,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,3,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,4,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,5,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,6,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,7,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,8,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,9,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,10,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,11,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,12,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,13,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,14,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,15,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,16,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,17,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,18,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,19,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,20,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,21,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,22,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,23,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,24,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,25,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,26,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,27,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,28,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,MEDIUM,29,0,0,1,45,-23.55,45,0,88.9
 Greedy (rule-based),infiltration,MEDIUM,MEDIUM,0,1,0,0,18,28.2,0,0,53.1
 Greedy (rule-based),infiltration,MEDIUM,MEDIUM,1,1,0,0,32,29.6,0,0,44.4
 Greedy (rule-based),infiltration,MEDIUM,MEDIUM,2,1,0,0,34,29.8,0,0,42.0
@@ -599,6 +719,36 @@ Cautious planner,infiltration,MEDIUM,MEDIUM,26,1,0,0,18,28.2,0,0,53.1
 Cautious planner,infiltration,MEDIUM,MEDIUM,27,1,0,0,18,28.2,0,0,53.1
 Cautious planner,infiltration,MEDIUM,MEDIUM,28,1,0,0,18,28.2,0,0,53.1
 Cautious planner,infiltration,MEDIUM,MEDIUM,29,1,0,0,18,28.2,0,0,53.1
+Smart AI agent,infiltration,MEDIUM,MEDIUM,0,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,1,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,2,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,3,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,4,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,5,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,6,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,7,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,8,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,9,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,10,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,11,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,12,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,13,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,14,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,15,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,16,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,17,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,18,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,19,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,20,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,21,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,22,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,23,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,24,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,25,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,26,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,27,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,28,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,infiltration,MEDIUM,MEDIUM,29,1,0,0,25,32.75,7,0,45.7
 Random,infiltration,MEDIUM,HIGH,0,0,0,1,45,-3.2,12,0,65.4
 Random,infiltration,MEDIUM,HIGH,1,0,1,0,6,-11.35,1,0,85.2
 Random,infiltration,MEDIUM,HIGH,2,0,1,0,45,-14.45,7,0,80.2
@@ -629,36 +779,36 @@ Random,infiltration,MEDIUM,HIGH,26,0,0,1,45,-0.75,9,0,56.8
 Random,infiltration,MEDIUM,HIGH,27,0,1,0,8,-11.05,1,0,86.4
 Random,infiltration,MEDIUM,HIGH,28,0,1,0,11,-11.0,2,0,85.2
 Random,infiltration,MEDIUM,HIGH,29,0,1,0,3,-12.1,0,0,90.1
-App baseline (current),infiltration,MEDIUM,HIGH,0,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,1,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,2,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,3,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,4,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,5,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,6,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,7,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,8,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,9,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,10,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,11,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,12,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,13,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,14,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,15,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,16,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,17,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,18,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,19,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,20,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,21,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,22,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,23,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,24,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,25,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,26,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,27,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,28,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),infiltration,MEDIUM,HIGH,29,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,0,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,1,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,2,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,3,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,4,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,5,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,6,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,7,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,8,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,9,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,10,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,11,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,12,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,13,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,14,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,15,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,16,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,17,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,18,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,19,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,20,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,21,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,22,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,23,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,24,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,25,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,26,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,27,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,28,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,infiltration,MEDIUM,HIGH,29,0,0,1,45,-23.55,45,0,88.9
 Greedy (rule-based),infiltration,MEDIUM,HIGH,0,1,0,0,38,30.2,0,0,30.9
 Greedy (rule-based),infiltration,MEDIUM,HIGH,1,1,0,0,42,30.6,0,0,34.6
 Greedy (rule-based),infiltration,MEDIUM,HIGH,2,0,0,1,45,4.85,0,0,40.7
@@ -719,6 +869,36 @@ Cautious planner,infiltration,MEDIUM,HIGH,26,1,0,0,32,29.6,0,0,37.0
 Cautious planner,infiltration,MEDIUM,HIGH,27,1,0,0,32,29.6,0,0,37.0
 Cautious planner,infiltration,MEDIUM,HIGH,28,1,0,0,32,29.6,0,0,37.0
 Cautious planner,infiltration,MEDIUM,HIGH,29,1,0,0,32,29.6,0,0,37.0
+Smart AI agent,infiltration,MEDIUM,HIGH,0,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,1,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,2,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,3,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,4,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,5,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,6,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,7,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,8,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,9,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,10,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,11,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,12,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,13,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,14,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,15,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,16,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,17,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,18,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,19,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,20,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,21,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,22,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,23,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,24,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,25,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,26,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,27,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,28,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,infiltration,MEDIUM,HIGH,29,0,0,1,45,-1.15,24,0,50.6
 Random,infiltration,HIGH,LOW,0,0,1,0,2,-11.8,0,0,80.2
 Random,infiltration,HIGH,LOW,1,0,1,0,2,-11.8,0,0,82.7
 Random,infiltration,HIGH,LOW,2,0,0,1,45,-4.85,7,0,59.3
@@ -749,36 +929,36 @@ Random,infiltration,HIGH,LOW,26,0,1,0,5,-12.15,1,0,81.5
 Random,infiltration,HIGH,LOW,27,0,1,0,23,-13.5,4,0,69.1
 Random,infiltration,HIGH,LOW,28,1,0,0,45,17.4,14,0,55.6
 Random,infiltration,HIGH,LOW,29,0,1,0,6,-12.7,2,0,79.0
-App baseline (current),infiltration,HIGH,LOW,0,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,1,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,2,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,3,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,4,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,5,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,6,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,7,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,8,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,9,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,10,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,11,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,12,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,13,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,14,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,15,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,16,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,17,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,18,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,19,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,20,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,21,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,22,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,23,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,24,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,25,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,26,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,27,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,28,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,LOW,29,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,0,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,1,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,2,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,3,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,4,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,5,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,6,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,7,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,8,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,9,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,10,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,11,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,12,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,13,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,14,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,15,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,16,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,17,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,18,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,19,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,20,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,21,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,22,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,23,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,24,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,25,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,26,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,27,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,28,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,LOW,29,0,0,1,45,-24.75,45,0,95.1
 Greedy (rule-based),infiltration,HIGH,LOW,0,1,0,0,4,26.8,0,0,66.7
 Greedy (rule-based),infiltration,HIGH,LOW,1,1,0,0,4,26.8,0,0,66.7
 Greedy (rule-based),infiltration,HIGH,LOW,2,1,0,0,4,26.8,0,0,66.7
@@ -839,6 +1019,36 @@ Cautious planner,infiltration,HIGH,LOW,26,1,0,0,4,26.8,0,0,66.7
 Cautious planner,infiltration,HIGH,LOW,27,1,0,0,4,26.8,0,0,66.7
 Cautious planner,infiltration,HIGH,LOW,28,1,0,0,4,26.8,0,0,66.7
 Cautious planner,infiltration,HIGH,LOW,29,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,0,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,1,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,2,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,3,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,4,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,5,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,6,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,7,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,8,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,9,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,10,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,11,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,12,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,13,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,14,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,15,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,16,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,17,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,18,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,19,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,20,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,21,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,22,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,23,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,24,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,25,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,26,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,27,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,28,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,infiltration,HIGH,LOW,29,1,0,0,4,26.8,0,0,66.7
 Random,infiltration,HIGH,MEDIUM,0,0,1,0,8,-12.25,1,0,76.5
 Random,infiltration,HIGH,MEDIUM,1,0,1,0,2,-11.8,0,0,82.7
 Random,infiltration,HIGH,MEDIUM,2,0,1,0,4,-11.6,0,0,77.8
@@ -869,36 +1079,36 @@ Random,infiltration,HIGH,MEDIUM,26,0,0,1,45,-7.1,13,0,69.1
 Random,infiltration,HIGH,MEDIUM,27,0,0,1,45,-7.9,13,0,72.8
 Random,infiltration,HIGH,MEDIUM,28,0,1,0,5,-11.45,1,0,75.3
 Random,infiltration,HIGH,MEDIUM,29,0,1,0,5,-11.9,0,0,77.8
-App baseline (current),infiltration,HIGH,MEDIUM,0,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,1,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,2,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,3,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,4,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,5,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,6,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,7,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,8,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,9,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,10,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,11,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,12,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,13,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,14,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,15,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,16,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,17,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,18,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,19,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,20,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,21,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,22,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,23,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,24,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,25,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,26,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,27,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,28,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,MEDIUM,29,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,0,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,1,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,2,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,3,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,4,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,5,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,6,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,7,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,8,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,9,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,10,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,11,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,12,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,13,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,14,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,15,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,16,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,17,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,18,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,19,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,20,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,21,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,22,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,23,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,24,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,25,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,26,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,27,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,28,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,MEDIUM,29,0,0,1,45,-24.75,45,0,95.1
 Greedy (rule-based),infiltration,HIGH,MEDIUM,0,1,0,0,30,29.4,0,0,32.1
 Greedy (rule-based),infiltration,HIGH,MEDIUM,1,1,0,0,26,29.0,0,0,32.1
 Greedy (rule-based),infiltration,HIGH,MEDIUM,2,1,0,0,22,28.6,0,0,32.1
@@ -959,6 +1169,36 @@ Cautious planner,infiltration,HIGH,MEDIUM,26,1,0,0,18,28.2,0,0,32.1
 Cautious planner,infiltration,HIGH,MEDIUM,27,1,0,0,18,28.2,0,0,32.1
 Cautious planner,infiltration,HIGH,MEDIUM,28,1,0,0,18,28.2,0,0,32.1
 Cautious planner,infiltration,HIGH,MEDIUM,29,1,0,0,18,28.2,0,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,0,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,1,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,2,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,3,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,4,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,5,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,6,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,7,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,8,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,9,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,10,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,11,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,12,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,13,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,14,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,15,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,16,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,17,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,18,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,19,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,20,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,21,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,22,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,23,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,24,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,25,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,26,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,27,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,28,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,infiltration,HIGH,MEDIUM,29,1,0,0,25,24.35,7,0,32.1
 Random,infiltration,HIGH,HIGH,0,0,1,0,4,-12.65,1,0,80.2
 Random,infiltration,HIGH,HIGH,1,0,1,0,8,-11.55,1,0,72.8
 Random,infiltration,HIGH,HIGH,2,0,1,0,43,-19.35,13,0,76.5
@@ -989,36 +1229,36 @@ Random,infiltration,HIGH,HIGH,26,0,1,0,29,-15.5,8,0,72.8
 Random,infiltration,HIGH,HIGH,27,0,1,0,6,-13.25,1,0,82.7
 Random,infiltration,HIGH,HIGH,28,0,1,0,4,-11.6,0,0,81.5
 Random,infiltration,HIGH,HIGH,29,0,1,0,2,-11.8,0,0,82.7
-App baseline (current),infiltration,HIGH,HIGH,0,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,1,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,2,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,3,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,4,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,5,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,6,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,7,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,8,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,9,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,10,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,11,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,12,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,13,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,14,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,15,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,16,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,17,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,18,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,19,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,20,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,21,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,22,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,23,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,24,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,25,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,26,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,27,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,28,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),infiltration,HIGH,HIGH,29,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,0,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,1,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,2,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,3,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,4,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,5,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,6,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,7,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,8,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,9,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,10,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,11,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,12,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,13,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,14,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,15,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,16,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,17,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,18,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,19,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,20,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,21,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,22,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,23,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,24,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,25,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,26,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,27,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,28,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,infiltration,HIGH,HIGH,29,0,0,1,45,-24.75,45,0,95.1
 Greedy (rule-based),infiltration,HIGH,HIGH,0,0,0,1,45,3.45,0,0,44.4
 Greedy (rule-based),infiltration,HIGH,HIGH,1,1,0,0,42,30.6,0,0,25.9
 Greedy (rule-based),infiltration,HIGH,HIGH,2,1,0,0,38,30.2,0,0,25.9
@@ -1079,6 +1319,36 @@ Cautious planner,infiltration,HIGH,HIGH,26,1,0,0,24,28.8,0,0,24.7
 Cautious planner,infiltration,HIGH,HIGH,27,1,0,0,24,28.8,0,0,24.7
 Cautious planner,infiltration,HIGH,HIGH,28,1,0,0,24,28.8,0,0,24.7
 Cautious planner,infiltration,HIGH,HIGH,29,1,0,0,24,28.8,0,0,24.7
+Smart AI agent,infiltration,HIGH,HIGH,0,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,1,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,2,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,3,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,4,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,5,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,6,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,7,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,8,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,9,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,10,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,11,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,12,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,13,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,14,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,15,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,16,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,17,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,18,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,19,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,20,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,21,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,22,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,23,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,24,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,25,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,26,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,27,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,28,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,infiltration,HIGH,HIGH,29,0,0,1,45,-10.75,24,0,49.4
 Random,reconnaissance,LOW,LOW,0,0,1,0,3,-12.35,1,0,86.4
 Random,reconnaissance,LOW,LOW,1,0,1,0,7,-11.8,2,0,85.2
 Random,reconnaissance,LOW,LOW,2,0,0,1,45,-5.8,10,0,77.8
@@ -1109,36 +1379,36 @@ Random,reconnaissance,LOW,LOW,26,0,1,0,43,-15.2,6,0,72.8
 Random,reconnaissance,LOW,LOW,27,0,1,0,2,-11.8,0,0,86.4
 Random,reconnaissance,LOW,LOW,28,0,1,0,2,-11.8,0,0,86.4
 Random,reconnaissance,LOW,LOW,29,0,1,0,10,-13.4,0,0,86.4
-App baseline (current),reconnaissance,LOW,LOW,0,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,1,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,2,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,3,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,4,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,5,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,6,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,7,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,8,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,9,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,10,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,11,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,12,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,13,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,14,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,15,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,16,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,17,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,18,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,19,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,20,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,21,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,22,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,23,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,24,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,25,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,26,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,27,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,28,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,LOW,29,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,0,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,1,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,2,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,3,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,4,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,5,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,6,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,7,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,8,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,9,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,10,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,11,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,12,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,13,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,14,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,15,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,16,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,17,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,18,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,19,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,20,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,21,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,22,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,23,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,24,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,25,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,26,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,27,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,28,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,LOW,29,0,0,1,45,-24.75,45,0,88.9
 Greedy (rule-based),reconnaissance,LOW,LOW,0,1,0,0,4,26.8,0,0,77.8
 Greedy (rule-based),reconnaissance,LOW,LOW,1,1,0,0,4,26.8,0,0,77.8
 Greedy (rule-based),reconnaissance,LOW,LOW,2,1,0,0,4,26.8,0,0,77.8
@@ -1199,6 +1469,36 @@ Cautious planner,reconnaissance,LOW,LOW,26,1,0,0,4,26.8,0,0,77.8
 Cautious planner,reconnaissance,LOW,LOW,27,1,0,0,4,26.8,0,0,77.8
 Cautious planner,reconnaissance,LOW,LOW,28,1,0,0,4,26.8,0,0,77.8
 Cautious planner,reconnaissance,LOW,LOW,29,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,0,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,1,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,2,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,3,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,4,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,5,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,6,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,7,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,8,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,9,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,10,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,11,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,12,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,13,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,14,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,15,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,16,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,17,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,18,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,19,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,20,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,21,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,22,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,23,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,24,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,25,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,26,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,27,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,28,1,0,0,4,26.8,0,0,77.8
+Smart AI agent,reconnaissance,LOW,LOW,29,1,0,0,4,26.8,0,0,77.8
 Random,reconnaissance,LOW,MEDIUM,0,0,1,0,8,-12.1,2,0,85.2
 Random,reconnaissance,LOW,MEDIUM,1,0,1,0,8,-13.3,2,0,86.4
 Random,reconnaissance,LOW,MEDIUM,2,0,1,0,13,-13.45,3,0,84.0
@@ -1229,36 +1529,36 @@ Random,reconnaissance,LOW,MEDIUM,26,0,1,0,13,-10.95,1,0,85.2
 Random,reconnaissance,LOW,MEDIUM,27,0,1,0,3,-12.1,0,0,86.4
 Random,reconnaissance,LOW,MEDIUM,28,0,1,0,5,-12.95,1,0,86.4
 Random,reconnaissance,LOW,MEDIUM,29,0,1,0,2,-11.8,0,0,86.4
-App baseline (current),reconnaissance,LOW,MEDIUM,0,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,1,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,2,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,3,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,4,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,5,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,6,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,7,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,8,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,9,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,10,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,11,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,12,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,13,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,14,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,15,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,16,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,17,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,18,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,19,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,20,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,21,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,22,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,23,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,24,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,25,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,26,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,27,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,28,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,MEDIUM,29,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,0,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,1,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,2,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,3,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,4,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,5,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,6,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,7,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,8,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,9,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,10,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,11,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,12,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,13,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,14,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,15,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,16,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,17,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,18,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,19,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,20,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,21,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,22,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,23,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,24,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,25,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,26,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,27,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,28,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,MEDIUM,29,0,0,1,45,-24.75,45,0,88.9
 Greedy (rule-based),reconnaissance,LOW,MEDIUM,0,1,0,0,36,30.0,0,0,42.0
 Greedy (rule-based),reconnaissance,LOW,MEDIUM,1,1,0,0,26,29.0,0,0,46.9
 Greedy (rule-based),reconnaissance,LOW,MEDIUM,2,1,0,0,20,28.4,0,0,49.4
@@ -1319,6 +1619,36 @@ Cautious planner,reconnaissance,LOW,MEDIUM,26,1,0,0,22,28.6,0,0,46.9
 Cautious planner,reconnaissance,LOW,MEDIUM,27,1,0,0,22,28.6,0,0,46.9
 Cautious planner,reconnaissance,LOW,MEDIUM,28,1,0,0,22,28.6,0,0,46.9
 Cautious planner,reconnaissance,LOW,MEDIUM,29,1,0,0,22,28.6,0,0,46.9
+Smart AI agent,reconnaissance,LOW,MEDIUM,0,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,1,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,2,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,3,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,4,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,5,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,6,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,7,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,8,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,9,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,10,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,11,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,12,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,13,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,14,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,15,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,16,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,17,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,18,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,19,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,20,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,21,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,22,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,23,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,24,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,25,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,26,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,27,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,28,1,0,0,25,31.55,7,0,45.7
+Smart AI agent,reconnaissance,LOW,MEDIUM,29,1,0,0,25,31.55,7,0,45.7
 Random,reconnaissance,LOW,HIGH,0,0,0,1,45,-7.5,15,0,77.8
 Random,reconnaissance,LOW,HIGH,1,0,1,0,2,-11.1,0,0,85.2
 Random,reconnaissance,LOW,HIGH,2,0,1,0,5,-12.0,2,0,82.7
@@ -1349,36 +1679,36 @@ Random,reconnaissance,LOW,HIGH,26,0,1,0,5,-11.9,0,0,86.4
 Random,reconnaissance,LOW,HIGH,27,0,0,1,45,-6.6,13,0,75.3
 Random,reconnaissance,LOW,HIGH,28,0,1,0,5,-13.2,2,0,86.4
 Random,reconnaissance,LOW,HIGH,29,0,1,0,2,-11.8,0,0,86.4
-App baseline (current),reconnaissance,LOW,HIGH,0,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,1,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,2,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,3,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,4,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,5,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,6,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,7,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,8,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,9,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,10,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,11,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,12,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,13,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,14,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,15,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,16,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,17,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,18,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,19,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,20,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,21,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,22,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,23,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,24,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,25,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,26,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,27,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,28,0,0,1,45,-24.75,45,0,88.9
-App baseline (current),reconnaissance,LOW,HIGH,29,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,0,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,1,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,2,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,3,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,4,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,5,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,6,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,7,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,8,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,9,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,10,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,11,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,12,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,13,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,14,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,15,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,16,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,17,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,18,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,19,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,20,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,21,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,22,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,23,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,24,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,25,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,26,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,27,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,28,0,0,1,45,-24.75,45,0,88.9
+Old app baseline,reconnaissance,LOW,HIGH,29,0,0,1,45,-24.75,45,0,88.9
 Greedy (rule-based),reconnaissance,LOW,HIGH,0,0,0,1,45,4.85,0,0,46.9
 Greedy (rule-based),reconnaissance,LOW,HIGH,1,1,0,0,44,30.8,0,0,35.8
 Greedy (rule-based),reconnaissance,LOW,HIGH,2,0,0,1,45,5.55,0,0,37.0
@@ -1439,6 +1769,36 @@ Cautious planner,reconnaissance,LOW,HIGH,26,1,0,0,30,29.4,0,0,34.6
 Cautious planner,reconnaissance,LOW,HIGH,27,1,0,0,30,29.4,0,0,34.6
 Cautious planner,reconnaissance,LOW,HIGH,28,1,0,0,30,29.4,0,0,34.6
 Cautious planner,reconnaissance,LOW,HIGH,29,1,0,0,30,29.4,0,0,34.6
+Smart AI agent,reconnaissance,LOW,HIGH,0,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,1,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,2,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,3,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,4,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,5,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,6,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,7,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,8,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,9,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,10,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,11,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,12,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,13,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,14,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,15,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,16,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,17,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,18,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,19,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,20,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,21,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,22,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,23,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,24,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,25,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,26,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,27,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,28,0,0,1,45,-2.35,24,0,50.6
+Smart AI agent,reconnaissance,LOW,HIGH,29,0,0,1,45,-2.35,24,0,50.6
 Random,reconnaissance,MEDIUM,LOW,0,0,1,0,2,-11.8,0,0,88.9
 Random,reconnaissance,MEDIUM,LOW,1,0,1,0,11,-11.4,2,0,81.5
 Random,reconnaissance,MEDIUM,LOW,2,0,1,0,2,-11.8,0,0,90.1
@@ -1469,36 +1829,36 @@ Random,reconnaissance,MEDIUM,LOW,26,0,1,0,4,-10.5,2,0,82.7
 Random,reconnaissance,MEDIUM,LOW,27,0,1,0,36,-12.15,7,0,75.3
 Random,reconnaissance,MEDIUM,LOW,28,0,1,0,5,-11.9,0,0,87.7
 Random,reconnaissance,MEDIUM,LOW,29,0,1,0,2,-11.8,0,0,90.1
-App baseline (current),reconnaissance,MEDIUM,LOW,0,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,1,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,2,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,3,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,4,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,5,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,6,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,7,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,8,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,9,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,10,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,11,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,12,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,13,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,14,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,15,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,16,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,17,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,18,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,19,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,20,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,21,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,22,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,23,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,24,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,25,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,26,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,27,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,28,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,LOW,29,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,0,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,1,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,2,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,3,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,4,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,5,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,6,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,7,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,8,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,9,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,10,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,11,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,12,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,13,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,14,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,15,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,16,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,17,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,18,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,19,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,20,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,21,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,22,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,23,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,24,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,25,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,26,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,27,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,28,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,LOW,29,0,0,1,45,-23.55,45,0,88.9
 Greedy (rule-based),reconnaissance,MEDIUM,LOW,0,1,0,0,4,26.8,0,0,80.2
 Greedy (rule-based),reconnaissance,MEDIUM,LOW,1,1,0,0,4,26.8,0,0,80.2
 Greedy (rule-based),reconnaissance,MEDIUM,LOW,2,1,0,0,4,26.8,0,0,80.2
@@ -1559,6 +1919,36 @@ Cautious planner,reconnaissance,MEDIUM,LOW,26,1,0,0,4,26.8,0,0,80.2
 Cautious planner,reconnaissance,MEDIUM,LOW,27,1,0,0,4,26.8,0,0,80.2
 Cautious planner,reconnaissance,MEDIUM,LOW,28,1,0,0,4,26.8,0,0,80.2
 Cautious planner,reconnaissance,MEDIUM,LOW,29,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,0,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,1,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,2,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,3,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,4,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,5,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,6,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,7,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,8,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,9,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,10,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,11,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,12,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,13,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,14,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,15,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,16,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,17,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,18,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,19,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,20,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,21,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,22,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,23,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,24,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,25,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,26,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,27,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,28,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,reconnaissance,MEDIUM,LOW,29,1,0,0,4,26.8,0,0,80.2
 Random,reconnaissance,MEDIUM,MEDIUM,0,0,1,0,4,-11.45,1,0,85.2
 Random,reconnaissance,MEDIUM,MEDIUM,1,0,1,0,8,-11.05,1,0,86.4
 Random,reconnaissance,MEDIUM,MEDIUM,2,0,1,0,3,-12.1,0,0,90.1
@@ -1589,36 +1979,36 @@ Random,reconnaissance,MEDIUM,MEDIUM,26,0,1,0,4,-11.45,1,0,85.2
 Random,reconnaissance,MEDIUM,MEDIUM,27,0,1,0,2,-11.1,0,0,87.7
 Random,reconnaissance,MEDIUM,MEDIUM,28,0,1,0,11,-12.9,0,0,86.4
 Random,reconnaissance,MEDIUM,MEDIUM,29,0,1,0,2,-11.8,0,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,0,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,1,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,2,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,3,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,4,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,5,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,6,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,7,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,8,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,9,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,10,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,11,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,12,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,13,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,14,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,15,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,16,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,17,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,18,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,19,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,20,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,21,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,22,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,23,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,24,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,25,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,26,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,27,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,28,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,MEDIUM,29,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,0,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,1,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,2,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,3,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,4,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,5,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,6,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,7,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,8,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,9,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,10,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,11,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,12,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,13,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,14,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,15,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,16,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,17,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,18,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,19,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,20,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,21,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,22,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,23,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,24,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,25,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,26,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,27,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,28,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,MEDIUM,29,0,0,1,45,-23.55,45,0,88.9
 Greedy (rule-based),reconnaissance,MEDIUM,MEDIUM,0,1,0,0,28,29.2,0,0,48.1
 Greedy (rule-based),reconnaissance,MEDIUM,MEDIUM,1,1,0,0,32,29.6,0,0,48.1
 Greedy (rule-based),reconnaissance,MEDIUM,MEDIUM,2,1,0,0,34,29.8,0,0,44.4
@@ -1679,6 +2069,36 @@ Cautious planner,reconnaissance,MEDIUM,MEDIUM,26,1,0,0,18,28.2,0,0,53.1
 Cautious planner,reconnaissance,MEDIUM,MEDIUM,27,1,0,0,18,28.2,0,0,53.1
 Cautious planner,reconnaissance,MEDIUM,MEDIUM,28,1,0,0,18,28.2,0,0,53.1
 Cautious planner,reconnaissance,MEDIUM,MEDIUM,29,1,0,0,18,28.2,0,0,53.1
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,0,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,1,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,2,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,3,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,4,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,5,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,6,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,7,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,8,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,9,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,10,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,11,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,12,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,13,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,14,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,15,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,16,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,17,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,18,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,19,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,20,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,21,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,22,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,23,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,24,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,25,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,26,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,27,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,28,1,0,0,25,32.75,7,0,45.7
+Smart AI agent,reconnaissance,MEDIUM,MEDIUM,29,1,0,0,25,32.75,7,0,45.7
 Random,reconnaissance,MEDIUM,HIGH,0,0,1,0,3,-12.1,0,0,88.9
 Random,reconnaissance,MEDIUM,HIGH,1,0,1,0,20,-12.25,1,0,80.2
 Random,reconnaissance,MEDIUM,HIGH,2,0,1,0,4,-11.45,1,0,85.2
@@ -1709,36 +2129,36 @@ Random,reconnaissance,MEDIUM,HIGH,26,0,1,0,18,-12.15,3,0,84.0
 Random,reconnaissance,MEDIUM,HIGH,27,0,1,0,3,-12.1,0,0,90.1
 Random,reconnaissance,MEDIUM,HIGH,28,0,1,0,7,-11.9,4,0,82.7
 Random,reconnaissance,MEDIUM,HIGH,29,0,1,0,15,-11.55,1,0,84.0
-App baseline (current),reconnaissance,MEDIUM,HIGH,0,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,1,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,2,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,3,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,4,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,5,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,6,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,7,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,8,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,9,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,10,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,11,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,12,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,13,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,14,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,15,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,16,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,17,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,18,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,19,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,20,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,21,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,22,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,23,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,24,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,25,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,26,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,27,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,28,0,0,1,45,-23.55,45,0,88.9
-App baseline (current),reconnaissance,MEDIUM,HIGH,29,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,0,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,1,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,2,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,3,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,4,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,5,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,6,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,7,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,8,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,9,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,10,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,11,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,12,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,13,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,14,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,15,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,16,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,17,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,18,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,19,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,20,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,21,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,22,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,23,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,24,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,25,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,26,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,27,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,28,0,0,1,45,-23.55,45,0,88.9
+Old app baseline,reconnaissance,MEDIUM,HIGH,29,0,0,1,45,-23.55,45,0,88.9
 Greedy (rule-based),reconnaissance,MEDIUM,HIGH,0,0,0,1,45,3.45,0,0,56.8
 Greedy (rule-based),reconnaissance,MEDIUM,HIGH,1,1,0,0,32,29.6,0,0,37.0
 Greedy (rule-based),reconnaissance,MEDIUM,HIGH,2,0,0,1,45,3.45,0,0,53.1
@@ -1799,6 +2219,36 @@ Cautious planner,reconnaissance,MEDIUM,HIGH,26,1,0,0,32,29.6,0,0,37.0
 Cautious planner,reconnaissance,MEDIUM,HIGH,27,1,0,0,32,29.6,0,0,37.0
 Cautious planner,reconnaissance,MEDIUM,HIGH,28,1,0,0,32,29.6,0,0,37.0
 Cautious planner,reconnaissance,MEDIUM,HIGH,29,1,0,0,32,29.6,0,0,37.0
+Smart AI agent,reconnaissance,MEDIUM,HIGH,0,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,1,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,2,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,3,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,4,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,5,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,6,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,7,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,8,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,9,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,10,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,11,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,12,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,13,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,14,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,15,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,16,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,17,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,18,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,19,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,20,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,21,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,22,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,23,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,24,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,25,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,26,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,27,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,28,0,0,1,45,-1.15,24,0,50.6
+Smart AI agent,reconnaissance,MEDIUM,HIGH,29,0,0,1,45,-1.15,24,0,50.6
 Random,reconnaissance,HIGH,LOW,0,0,1,0,2,-11.8,0,0,82.7
 Random,reconnaissance,HIGH,LOW,1,0,1,0,2,-11.8,0,0,82.7
 Random,reconnaissance,HIGH,LOW,2,0,1,0,6,-12.2,0,0,81.5
@@ -1829,36 +2279,36 @@ Random,reconnaissance,HIGH,LOW,26,0,1,0,12,-15.25,5,0,81.5
 Random,reconnaissance,HIGH,LOW,27,0,1,0,11,-13.4,2,0,77.8
 Random,reconnaissance,HIGH,LOW,28,0,1,0,6,-13.75,3,0,80.2
 Random,reconnaissance,HIGH,LOW,29,0,1,0,3,-12.1,0,0,82.7
-App baseline (current),reconnaissance,HIGH,LOW,0,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,1,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,2,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,3,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,4,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,5,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,6,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,7,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,8,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,9,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,10,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,11,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,12,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,13,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,14,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,15,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,16,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,17,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,18,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,19,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,20,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,21,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,22,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,23,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,24,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,25,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,26,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,27,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,28,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,LOW,29,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,0,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,1,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,2,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,3,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,4,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,5,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,6,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,7,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,8,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,9,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,10,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,11,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,12,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,13,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,14,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,15,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,16,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,17,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,18,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,19,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,20,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,21,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,22,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,23,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,24,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,25,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,26,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,27,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,28,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,LOW,29,0,0,1,45,-24.75,45,0,95.1
 Greedy (rule-based),reconnaissance,HIGH,LOW,0,1,0,0,4,26.8,0,0,66.7
 Greedy (rule-based),reconnaissance,HIGH,LOW,1,1,0,0,4,26.8,0,0,66.7
 Greedy (rule-based),reconnaissance,HIGH,LOW,2,1,0,0,4,26.8,0,0,66.7
@@ -1919,6 +2369,36 @@ Cautious planner,reconnaissance,HIGH,LOW,26,1,0,0,4,26.8,0,0,66.7
 Cautious planner,reconnaissance,HIGH,LOW,27,1,0,0,4,26.8,0,0,66.7
 Cautious planner,reconnaissance,HIGH,LOW,28,1,0,0,4,26.8,0,0,66.7
 Cautious planner,reconnaissance,HIGH,LOW,29,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,0,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,1,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,2,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,3,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,4,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,5,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,6,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,7,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,8,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,9,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,10,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,11,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,12,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,13,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,14,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,15,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,16,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,17,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,18,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,19,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,20,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,21,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,22,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,23,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,24,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,25,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,26,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,27,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,28,1,0,0,4,26.8,0,0,66.7
+Smart AI agent,reconnaissance,HIGH,LOW,29,1,0,0,4,26.8,0,0,66.7
 Random,reconnaissance,HIGH,MEDIUM,0,0,1,0,7,-12.55,3,0,75.3
 Random,reconnaissance,HIGH,MEDIUM,1,0,1,0,5,-13.2,2,0,82.7
 Random,reconnaissance,HIGH,MEDIUM,2,0,1,0,5,-11.9,0,0,77.8
@@ -1949,36 +2429,36 @@ Random,reconnaissance,HIGH,MEDIUM,26,0,1,0,3,-12.1,0,0,80.2
 Random,reconnaissance,HIGH,MEDIUM,27,0,1,0,6,-12.45,1,0,81.5
 Random,reconnaissance,HIGH,MEDIUM,28,0,1,0,10,-14.65,5,0,79.0
 Random,reconnaissance,HIGH,MEDIUM,29,0,1,0,5,-13.45,3,0,80.2
-App baseline (current),reconnaissance,HIGH,MEDIUM,0,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,1,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,2,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,3,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,4,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,5,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,6,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,7,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,8,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,9,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,10,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,11,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,12,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,13,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,14,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,15,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,16,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,17,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,18,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,19,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,20,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,21,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,22,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,23,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,24,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,25,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,26,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,27,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,28,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,MEDIUM,29,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,0,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,1,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,2,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,3,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,4,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,5,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,6,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,7,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,8,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,9,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,10,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,11,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,12,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,13,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,14,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,15,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,16,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,17,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,18,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,19,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,20,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,21,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,22,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,23,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,24,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,25,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,26,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,27,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,28,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,MEDIUM,29,0,0,1,45,-24.75,45,0,95.1
 Greedy (rule-based),reconnaissance,HIGH,MEDIUM,0,1,0,0,32,29.6,0,0,32.1
 Greedy (rule-based),reconnaissance,HIGH,MEDIUM,1,1,0,0,32,29.6,0,0,24.7
 Greedy (rule-based),reconnaissance,HIGH,MEDIUM,2,1,0,0,38,30.2,0,0,27.2
@@ -2039,6 +2519,36 @@ Cautious planner,reconnaissance,HIGH,MEDIUM,26,1,0,0,18,28.2,0,0,32.1
 Cautious planner,reconnaissance,HIGH,MEDIUM,27,1,0,0,18,28.2,0,0,32.1
 Cautious planner,reconnaissance,HIGH,MEDIUM,28,1,0,0,18,28.2,0,0,32.1
 Cautious planner,reconnaissance,HIGH,MEDIUM,29,1,0,0,18,28.2,0,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,0,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,1,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,2,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,3,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,4,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,5,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,6,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,7,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,8,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,9,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,10,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,11,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,12,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,13,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,14,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,15,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,16,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,17,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,18,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,19,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,20,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,21,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,22,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,23,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,24,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,25,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,26,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,27,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,28,1,0,0,25,24.35,7,0,32.1
+Smart AI agent,reconnaissance,HIGH,MEDIUM,29,1,0,0,25,24.35,7,0,32.1
 Random,reconnaissance,HIGH,HIGH,0,0,1,0,5,-11.9,0,0,81.5
 Random,reconnaissance,HIGH,HIGH,1,0,1,0,33,-14.9,4,0,70.4
 Random,reconnaissance,HIGH,HIGH,2,0,1,0,2,-11.8,0,0,80.2
@@ -2069,36 +2579,36 @@ Random,reconnaissance,HIGH,HIGH,26,0,1,0,4,-10.9,0,0,75.3
 Random,reconnaissance,HIGH,HIGH,27,0,1,0,39,-18.2,10,0,69.1
 Random,reconnaissance,HIGH,HIGH,28,0,1,0,15,-11.95,1,0,76.5
 Random,reconnaissance,HIGH,HIGH,29,0,1,0,2,-11.8,0,0,80.2
-App baseline (current),reconnaissance,HIGH,HIGH,0,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,1,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,2,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,3,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,4,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,5,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,6,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,7,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,8,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,9,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,10,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,11,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,12,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,13,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,14,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,15,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,16,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,17,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,18,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,19,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,20,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,21,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,22,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,23,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,24,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,25,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,26,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,27,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,28,0,0,1,45,-24.75,45,0,95.1
-App baseline (current),reconnaissance,HIGH,HIGH,29,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,0,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,1,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,2,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,3,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,4,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,5,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,6,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,7,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,8,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,9,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,10,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,11,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,12,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,13,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,14,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,15,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,16,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,17,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,18,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,19,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,20,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,21,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,22,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,23,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,24,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,25,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,26,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,27,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,28,0,0,1,45,-24.75,45,0,95.1
+Old app baseline,reconnaissance,HIGH,HIGH,29,0,0,1,45,-24.75,45,0,95.1
 Greedy (rule-based),reconnaissance,HIGH,HIGH,0,1,0,0,44,30.8,0,0,25.9
 Greedy (rule-based),reconnaissance,HIGH,HIGH,1,0,0,1,45,4.85,0,0,35.8
 Greedy (rule-based),reconnaissance,HIGH,HIGH,2,1,0,0,42,30.6,0,0,24.7
@@ -2159,6 +2669,36 @@ Cautious planner,reconnaissance,HIGH,HIGH,26,1,0,0,24,28.8,0,0,24.7
 Cautious planner,reconnaissance,HIGH,HIGH,27,1,0,0,24,28.8,0,0,24.7
 Cautious planner,reconnaissance,HIGH,HIGH,28,1,0,0,24,28.8,0,0,24.7
 Cautious planner,reconnaissance,HIGH,HIGH,29,1,0,0,24,28.8,0,0,24.7
+Smart AI agent,reconnaissance,HIGH,HIGH,0,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,1,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,2,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,3,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,4,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,5,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,6,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,7,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,8,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,9,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,10,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,11,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,12,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,13,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,14,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,15,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,16,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,17,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,18,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,19,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,20,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,21,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,22,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,23,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,24,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,25,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,26,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,27,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,28,0,0,1,45,-10.75,24,0,49.4
+Smart AI agent,reconnaissance,HIGH,HIGH,29,0,0,1,45,-10.75,24,0,49.4
 Random,escape,LOW,LOW,0,0,1,0,15,-11.2,4,0,67.9
 Random,escape,LOW,LOW,1,0,0,1,45,-2.2,9,0,69.1
 Random,escape,LOW,LOW,2,0,0,1,45,2.2,10,0,50.6
@@ -2189,36 +2729,36 @@ Random,escape,LOW,LOW,26,0,0,1,45,-1.4,9,0,48.1
 Random,escape,LOW,LOW,27,0,0,1,45,-0.65,15,0,49.4
 Random,escape,LOW,LOW,28,0,1,0,15,-8.95,3,0,65.4
 Random,escape,LOW,LOW,29,0,0,1,45,-1.45,10,0,58.0
-App baseline (current),escape,LOW,LOW,0,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,1,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,2,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,3,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,4,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,5,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,6,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,7,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,8,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,9,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,10,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,11,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,12,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,13,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,14,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,15,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,16,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,17,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,18,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,19,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,20,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,21,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,22,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,23,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,24,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,25,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,26,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,27,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,28,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,LOW,29,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,0,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,1,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,2,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,3,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,4,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,5,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,6,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,7,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,8,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,9,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,10,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,11,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,12,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,13,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,14,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,15,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,16,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,17,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,18,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,19,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,20,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,21,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,22,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,23,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,24,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,25,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,26,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,27,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,28,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,LOW,29,0,0,1,45,-24.75,45,0,84.0
 Greedy (rule-based),escape,LOW,LOW,0,1,0,0,4,26.8,0,0,74.1
 Greedy (rule-based),escape,LOW,LOW,1,1,0,0,4,26.8,0,0,74.1
 Greedy (rule-based),escape,LOW,LOW,2,1,0,0,4,26.8,0,0,74.1
@@ -2279,6 +2819,36 @@ Cautious planner,escape,LOW,LOW,26,1,0,0,4,26.8,0,0,74.1
 Cautious planner,escape,LOW,LOW,27,1,0,0,4,26.8,0,0,74.1
 Cautious planner,escape,LOW,LOW,28,1,0,0,4,26.8,0,0,74.1
 Cautious planner,escape,LOW,LOW,29,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,0,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,1,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,2,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,3,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,4,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,5,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,6,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,7,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,8,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,9,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,10,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,11,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,12,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,13,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,14,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,15,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,16,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,17,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,18,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,19,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,20,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,21,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,22,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,23,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,24,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,25,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,26,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,27,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,28,1,0,0,4,26.8,0,0,74.1
+Smart AI agent,escape,LOW,LOW,29,1,0,0,4,26.8,0,0,74.1
 Random,escape,LOW,MEDIUM,0,0,1,0,16,-10.45,3,0,74.1
 Random,escape,LOW,MEDIUM,1,0,0,1,45,-5.9,13,0,70.4
 Random,escape,LOW,MEDIUM,2,0,1,0,2,-11.1,0,0,80.2
@@ -2309,36 +2879,36 @@ Random,escape,LOW,MEDIUM,26,0,0,1,45,-0.85,8,0,64.2
 Random,escape,LOW,MEDIUM,27,0,1,0,5,-11.2,0,0,80.2
 Random,escape,LOW,MEDIUM,28,0,0,1,45,0.15,7,0,54.3
 Random,escape,LOW,MEDIUM,29,0,0,1,45,-6.0,11,0,63.0
-App baseline (current),escape,LOW,MEDIUM,0,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,1,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,2,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,3,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,4,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,5,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,6,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,7,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,8,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,9,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,10,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,11,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,12,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,13,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,14,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,15,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,16,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,17,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,18,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,19,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,20,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,21,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,22,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,23,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,24,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,25,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,26,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,27,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,28,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,MEDIUM,29,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,0,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,1,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,2,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,3,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,4,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,5,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,6,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,7,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,8,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,9,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,10,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,11,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,12,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,13,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,14,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,15,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,16,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,17,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,18,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,19,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,20,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,21,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,22,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,23,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,24,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,25,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,26,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,27,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,28,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,MEDIUM,29,0,0,1,45,-24.75,45,0,84.0
 Greedy (rule-based),escape,LOW,MEDIUM,0,1,0,0,38,30.2,0,0,40.7
 Greedy (rule-based),escape,LOW,MEDIUM,1,0,0,1,45,5.55,0,0,49.4
 Greedy (rule-based),escape,LOW,MEDIUM,2,1,0,0,32,29.6,0,0,44.4
@@ -2399,6 +2969,36 @@ Cautious planner,escape,LOW,MEDIUM,26,1,0,0,22,28.6,0,0,46.9
 Cautious planner,escape,LOW,MEDIUM,27,1,0,0,22,28.6,0,0,46.9
 Cautious planner,escape,LOW,MEDIUM,28,1,0,0,22,28.6,0,0,46.9
 Cautious planner,escape,LOW,MEDIUM,29,1,0,0,22,28.6,0,0,46.9
+Smart AI agent,escape,LOW,MEDIUM,0,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,1,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,2,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,3,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,4,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,5,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,6,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,7,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,8,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,9,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,10,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,11,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,12,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,13,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,14,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,15,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,16,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,17,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,18,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,19,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,20,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,21,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,22,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,23,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,24,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,25,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,26,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,27,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,28,0,0,1,45,-1.25,26,0,39.5
+Smart AI agent,escape,LOW,MEDIUM,29,0,0,1,45,-1.25,26,0,39.5
 Random,escape,LOW,HIGH,0,0,1,0,28,-13.0,10,0,70.4
 Random,escape,LOW,HIGH,1,0,1,0,36,-14.9,8,0,65.4
 Random,escape,LOW,HIGH,2,0,0,1,45,2.15,7,0,60.5
@@ -2429,36 +3029,36 @@ Random,escape,LOW,HIGH,26,0,0,1,45,-0.3,7,0,60.5
 Random,escape,LOW,HIGH,27,0,1,0,3,-10.45,1,0,77.8
 Random,escape,LOW,HIGH,28,0,1,0,3,-11.4,0,0,80.2
 Random,escape,LOW,HIGH,29,0,1,0,8,-11.55,1,0,80.2
-App baseline (current),escape,LOW,HIGH,0,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,1,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,2,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,3,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,4,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,5,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,6,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,7,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,8,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,9,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,10,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,11,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,12,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,13,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,14,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,15,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,16,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,17,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,18,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,19,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,20,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,21,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,22,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,23,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,24,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,25,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,26,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,27,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,28,0,0,1,45,-24.75,45,0,84.0
-App baseline (current),escape,LOW,HIGH,29,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,0,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,1,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,2,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,3,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,4,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,5,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,6,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,7,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,8,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,9,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,10,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,11,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,12,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,13,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,14,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,15,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,16,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,17,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,18,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,19,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,20,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,21,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,22,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,23,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,24,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,25,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,26,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,27,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,28,0,0,1,45,-24.75,45,0,84.0
+Old app baseline,escape,LOW,HIGH,29,0,0,1,45,-24.75,45,0,84.0
 Greedy (rule-based),escape,LOW,HIGH,0,1,0,0,38,30.2,0,0,35.8
 Greedy (rule-based),escape,LOW,HIGH,1,0,0,1,45,3.45,0,0,65.4
 Greedy (rule-based),escape,LOW,HIGH,2,0,0,1,45,4.15,0,0,65.4
@@ -2519,6 +3119,36 @@ Cautious planner,escape,LOW,HIGH,26,1,0,0,28,29.2,0,0,33.3
 Cautious planner,escape,LOW,HIGH,27,1,0,0,28,29.2,0,0,33.3
 Cautious planner,escape,LOW,HIGH,28,1,0,0,28,29.2,0,0,33.3
 Cautious planner,escape,LOW,HIGH,29,1,0,0,28,29.2,0,0,33.3
+Smart AI agent,escape,LOW,HIGH,0,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,1,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,2,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,3,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,4,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,5,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,6,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,7,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,8,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,9,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,10,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,11,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,12,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,13,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,14,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,15,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,16,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,17,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,18,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,19,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,20,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,21,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,22,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,23,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,24,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,25,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,26,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,27,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,28,1,0,0,40,35.8,12,0,27.2
+Smart AI agent,escape,LOW,HIGH,29,1,0,0,40,35.8,12,0,27.2
 Random,escape,MEDIUM,LOW,0,0,0,1,45,0.2,5,0,58.0
 Random,escape,MEDIUM,LOW,1,0,0,1,45,-0.25,9,0,55.6
 Random,escape,MEDIUM,LOW,2,0,1,0,11,-10.8,4,0,71.6
@@ -2549,36 +3179,36 @@ Random,escape,MEDIUM,LOW,26,0,0,1,45,-0.75,6,0,61.7
 Random,escape,MEDIUM,LOW,27,0,0,1,45,2.0,7,0,60.5
 Random,escape,MEDIUM,LOW,28,0,1,0,20,-11.45,7,0,69.1
 Random,escape,MEDIUM,LOW,29,0,1,0,20,-12.95,5,0,67.9
-App baseline (current),escape,MEDIUM,LOW,0,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,1,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,2,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,3,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,4,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,5,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,6,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,7,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,8,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,9,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,10,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,11,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,12,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,13,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,14,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,15,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,16,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,17,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,18,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,19,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,20,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,21,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,22,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,23,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,24,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,25,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,26,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,27,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,28,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,LOW,29,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,0,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,1,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,2,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,3,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,4,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,5,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,6,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,7,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,8,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,9,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,10,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,11,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,12,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,13,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,14,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,15,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,16,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,17,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,18,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,19,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,20,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,21,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,22,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,23,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,24,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,25,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,26,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,27,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,28,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,LOW,29,0,0,1,45,-23.55,45,0,84.0
 Greedy (rule-based),escape,MEDIUM,LOW,0,1,0,0,4,26.8,0,0,80.2
 Greedy (rule-based),escape,MEDIUM,LOW,1,1,0,0,4,26.8,0,0,80.2
 Greedy (rule-based),escape,MEDIUM,LOW,2,1,0,0,4,26.8,0,0,80.2
@@ -2639,6 +3269,36 @@ Cautious planner,escape,MEDIUM,LOW,26,1,0,0,4,26.8,0,0,80.2
 Cautious planner,escape,MEDIUM,LOW,27,1,0,0,4,26.8,0,0,80.2
 Cautious planner,escape,MEDIUM,LOW,28,1,0,0,4,26.8,0,0,80.2
 Cautious planner,escape,MEDIUM,LOW,29,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,0,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,1,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,2,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,3,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,4,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,5,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,6,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,7,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,8,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,9,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,10,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,11,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,12,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,13,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,14,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,15,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,16,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,17,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,18,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,19,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,20,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,21,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,22,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,23,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,24,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,25,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,26,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,27,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,28,1,0,0,4,26.8,0,0,80.2
+Smart AI agent,escape,MEDIUM,LOW,29,1,0,0,4,26.8,0,0,80.2
 Random,escape,MEDIUM,MEDIUM,0,0,1,0,43,-12.5,6,0,66.7
 Random,escape,MEDIUM,MEDIUM,1,0,0,1,45,1.65,6,0,44.4
 Random,escape,MEDIUM,MEDIUM,2,0,1,0,29,-13.5,6,0,75.3
@@ -2669,36 +3329,36 @@ Random,escape,MEDIUM,MEDIUM,26,0,0,1,45,1.55,14,0,51.9
 Random,escape,MEDIUM,MEDIUM,27,0,1,0,17,-13.3,2,0,79.0
 Random,escape,MEDIUM,MEDIUM,28,0,1,0,9,-11.7,2,0,84.0
 Random,escape,MEDIUM,MEDIUM,29,0,0,1,45,-4.0,14,0,53.1
-App baseline (current),escape,MEDIUM,MEDIUM,0,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,1,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,2,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,3,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,4,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,5,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,6,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,7,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,8,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,9,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,10,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,11,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,12,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,13,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,14,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,15,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,16,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,17,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,18,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,19,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,20,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,21,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,22,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,23,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,24,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,25,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,26,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,27,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,28,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,MEDIUM,29,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,0,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,1,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,2,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,3,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,4,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,5,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,6,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,7,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,8,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,9,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,10,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,11,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,12,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,13,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,14,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,15,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,16,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,17,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,18,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,19,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,20,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,21,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,22,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,23,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,24,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,25,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,26,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,27,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,28,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,MEDIUM,29,0,0,1,45,-23.55,45,0,84.0
 Greedy (rule-based),escape,MEDIUM,MEDIUM,0,1,0,0,40,30.4,0,0,39.5
 Greedy (rule-based),escape,MEDIUM,MEDIUM,1,1,0,0,32,29.6,0,0,46.9
 Greedy (rule-based),escape,MEDIUM,MEDIUM,2,1,0,0,38,30.2,0,0,38.3
@@ -2759,6 +3419,36 @@ Cautious planner,escape,MEDIUM,MEDIUM,26,1,0,0,28,29.2,0,0,46.9
 Cautious planner,escape,MEDIUM,MEDIUM,27,1,0,0,28,29.2,0,0,46.9
 Cautious planner,escape,MEDIUM,MEDIUM,28,1,0,0,28,29.2,0,0,46.9
 Cautious planner,escape,MEDIUM,MEDIUM,29,1,0,0,28,29.2,0,0,46.9
+Smart AI agent,escape,MEDIUM,MEDIUM,0,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,1,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,2,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,3,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,4,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,5,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,6,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,7,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,8,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,9,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,10,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,11,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,12,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,13,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,14,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,15,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,16,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,17,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,18,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,19,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,20,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,21,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,22,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,23,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,24,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,25,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,26,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,27,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,28,0,0,1,45,-0.05,26,0,39.5
+Smart AI agent,escape,MEDIUM,MEDIUM,29,0,0,1,45,-0.05,26,0,39.5
 Random,escape,MEDIUM,HIGH,0,0,0,1,45,2.95,5,0,67.9
 Random,escape,MEDIUM,HIGH,1,0,1,0,10,-9.85,3,0,74.1
 Random,escape,MEDIUM,HIGH,2,0,0,1,45,-3.95,13,0,69.1
@@ -2789,36 +3479,36 @@ Random,escape,MEDIUM,HIGH,26,0,0,1,45,-3.85,8,0,71.6
 Random,escape,MEDIUM,HIGH,27,0,0,1,45,-5.95,18,0,69.1
 Random,escape,MEDIUM,HIGH,28,0,1,0,17,-10.05,5,0,70.4
 Random,escape,MEDIUM,HIGH,29,0,0,1,45,0.6,10,0,56.8
-App baseline (current),escape,MEDIUM,HIGH,0,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,1,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,2,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,3,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,4,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,5,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,6,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,7,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,8,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,9,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,10,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,11,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,12,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,13,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,14,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,15,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,16,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,17,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,18,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,19,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,20,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,21,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,22,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,23,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,24,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,25,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,26,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,27,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,28,0,0,1,45,-23.55,45,0,84.0
-App baseline (current),escape,MEDIUM,HIGH,29,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,0,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,1,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,2,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,3,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,4,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,5,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,6,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,7,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,8,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,9,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,10,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,11,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,12,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,13,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,14,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,15,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,16,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,17,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,18,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,19,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,20,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,21,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,22,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,23,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,24,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,25,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,26,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,27,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,28,0,0,1,45,-23.55,45,0,84.0
+Old app baseline,escape,MEDIUM,HIGH,29,0,0,1,45,-23.55,45,0,84.0
 Greedy (rule-based),escape,MEDIUM,HIGH,0,0,0,1,45,5.55,0,0,38.3
 Greedy (rule-based),escape,MEDIUM,HIGH,1,0,0,1,45,2.75,0,0,66.7
 Greedy (rule-based),escape,MEDIUM,HIGH,2,1,0,0,34,29.8,0,0,38.3
@@ -2879,6 +3569,36 @@ Cautious planner,escape,MEDIUM,HIGH,26,1,0,0,34,29.8,0,0,33.3
 Cautious planner,escape,MEDIUM,HIGH,27,1,0,0,34,29.8,0,0,33.3
 Cautious planner,escape,MEDIUM,HIGH,28,1,0,0,34,29.8,0,0,33.3
 Cautious planner,escape,MEDIUM,HIGH,29,1,0,0,34,29.8,0,0,33.3
+Smart AI agent,escape,MEDIUM,HIGH,0,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,1,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,2,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,3,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,4,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,5,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,6,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,7,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,8,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,9,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,10,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,11,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,12,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,13,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,14,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,15,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,16,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,17,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,18,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,19,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,20,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,21,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,22,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,23,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,24,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,25,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,26,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,27,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,28,1,0,0,40,37.0,12,0,27.2
+Smart AI agent,escape,MEDIUM,HIGH,29,1,0,0,40,37.0,12,0,27.2
 Random,escape,HIGH,LOW,0,0,0,1,45,-8.1,8,0,42.0
 Random,escape,HIGH,LOW,1,0,1,0,11,-12.95,3,0,61.7
 Random,escape,HIGH,LOW,2,0,0,1,45,-7.95,10,0,64.2
@@ -2909,36 +3629,36 @@ Random,escape,HIGH,LOW,26,0,1,0,24,-13.4,2,0,56.8
 Random,escape,HIGH,LOW,27,0,1,0,6,-11.75,1,0,71.6
 Random,escape,HIGH,LOW,28,0,0,1,45,-8.25,9,0,50.6
 Random,escape,HIGH,LOW,29,0,1,0,15,-12.3,2,0,55.6
-App baseline (current),escape,HIGH,LOW,0,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,1,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,2,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,3,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,4,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,5,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,6,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,7,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,8,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,9,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,10,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,11,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,12,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,13,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,14,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,15,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,16,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,17,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,18,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,19,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,20,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,21,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,22,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,23,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,24,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,25,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,26,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,27,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,28,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,LOW,29,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,0,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,1,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,2,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,3,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,4,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,5,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,6,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,7,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,8,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,9,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,10,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,11,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,12,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,13,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,14,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,15,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,16,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,17,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,18,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,19,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,20,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,21,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,22,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,23,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,24,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,25,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,26,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,27,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,28,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,LOW,29,0,0,1,45,-24.75,45,0,93.8
 Greedy (rule-based),escape,HIGH,LOW,0,1,0,0,4,26.8,0,0,70.4
 Greedy (rule-based),escape,HIGH,LOW,1,1,0,0,4,26.8,0,0,70.4
 Greedy (rule-based),escape,HIGH,LOW,2,1,0,0,4,26.8,0,0,70.4
@@ -2999,6 +3719,36 @@ Cautious planner,escape,HIGH,LOW,26,1,0,0,4,26.8,0,0,70.4
 Cautious planner,escape,HIGH,LOW,27,1,0,0,4,26.8,0,0,70.4
 Cautious planner,escape,HIGH,LOW,28,1,0,0,4,26.8,0,0,70.4
 Cautious planner,escape,HIGH,LOW,29,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,0,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,1,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,2,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,3,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,4,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,5,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,6,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,7,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,8,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,9,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,10,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,11,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,12,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,13,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,14,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,15,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,16,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,17,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,18,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,19,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,20,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,21,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,22,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,23,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,24,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,25,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,26,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,27,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,28,1,0,0,4,26.8,0,0,70.4
+Smart AI agent,escape,HIGH,LOW,29,1,0,0,4,26.8,0,0,70.4
 Random,escape,HIGH,MEDIUM,0,0,1,0,26,-17.35,9,0,64.2
 Random,escape,HIGH,MEDIUM,1,0,1,0,9,-13.65,5,0,67.9
 Random,escape,HIGH,MEDIUM,2,0,1,0,13,-14.6,4,0,67.9
@@ -3029,36 +3779,36 @@ Random,escape,HIGH,MEDIUM,26,0,0,1,45,-7.55,12,0,51.9
 Random,escape,HIGH,MEDIUM,27,0,1,0,23,-16.25,5,0,63.0
 Random,escape,HIGH,MEDIUM,28,0,1,0,3,-11.65,1,0,77.8
 Random,escape,HIGH,MEDIUM,29,0,0,1,45,-6.7,8,0,64.2
-App baseline (current),escape,HIGH,MEDIUM,0,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,1,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,2,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,3,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,4,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,5,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,6,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,7,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,8,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,9,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,10,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,11,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,12,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,13,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,14,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,15,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,16,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,17,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,18,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,19,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,20,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,21,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,22,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,23,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,24,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,25,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,26,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,27,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,28,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,MEDIUM,29,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,0,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,1,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,2,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,3,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,4,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,5,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,6,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,7,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,8,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,9,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,10,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,11,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,12,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,13,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,14,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,15,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,16,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,17,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,18,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,19,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,20,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,21,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,22,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,23,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,24,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,25,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,26,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,27,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,28,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,MEDIUM,29,0,0,1,45,-24.75,45,0,93.8
 Greedy (rule-based),escape,HIGH,MEDIUM,0,1,0,0,32,29.6,0,0,25.9
 Greedy (rule-based),escape,HIGH,MEDIUM,1,1,0,0,38,30.2,0,0,24.7
 Greedy (rule-based),escape,HIGH,MEDIUM,2,1,0,0,36,30.0,0,0,25.9
@@ -3119,6 +3869,36 @@ Cautious planner,escape,HIGH,MEDIUM,26,1,0,0,22,28.6,0,0,32.1
 Cautious planner,escape,HIGH,MEDIUM,27,1,0,0,22,28.6,0,0,32.1
 Cautious planner,escape,HIGH,MEDIUM,28,1,0,0,22,28.6,0,0,32.1
 Cautious planner,escape,HIGH,MEDIUM,29,1,0,0,22,28.6,0,0,32.1
+Smart AI agent,escape,HIGH,MEDIUM,0,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,1,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,2,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,3,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,4,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,5,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,6,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,7,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,8,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,9,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,10,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,11,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,12,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,13,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,14,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,15,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,16,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,17,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,18,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,19,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,20,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,21,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,22,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,23,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,24,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,25,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,26,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,27,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,28,1,0,0,41,23.35,11,0,27.2
+Smart AI agent,escape,HIGH,MEDIUM,29,1,0,0,41,23.35,11,0,27.2
 Random,escape,HIGH,HIGH,0,0,0,1,45,-10.05,15,0,70.4
 Random,escape,HIGH,HIGH,1,0,1,0,13,-14.05,5,0,64.2
 Random,escape,HIGH,HIGH,2,0,1,0,2,-11.1,0,0,77.8
@@ -3149,36 +3929,36 @@ Random,escape,HIGH,HIGH,26,0,1,0,22,-13.05,3,0,64.2
 Random,escape,HIGH,HIGH,27,0,1,0,10,-12.4,2,0,67.9
 Random,escape,HIGH,HIGH,28,0,0,1,45,-7.6,12,0,54.3
 Random,escape,HIGH,HIGH,29,0,1,0,7,-12.3,2,0,67.9
-App baseline (current),escape,HIGH,HIGH,0,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,1,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,2,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,3,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,4,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,5,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,6,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,7,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,8,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,9,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,10,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,11,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,12,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,13,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,14,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,15,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,16,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,17,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,18,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,19,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,20,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,21,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,22,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,23,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,24,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,25,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,26,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,27,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,28,0,0,1,45,-24.75,45,0,93.8
-App baseline (current),escape,HIGH,HIGH,29,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,0,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,1,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,2,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,3,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,4,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,5,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,6,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,7,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,8,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,9,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,10,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,11,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,12,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,13,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,14,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,15,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,16,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,17,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,18,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,19,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,20,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,21,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,22,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,23,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,24,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,25,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,26,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,27,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,28,0,0,1,45,-24.75,45,0,93.8
+Old app baseline,escape,HIGH,HIGH,29,0,0,1,45,-24.75,45,0,93.8
 Greedy (rule-based),escape,HIGH,HIGH,0,0,0,1,45,4.15,0,0,28.4
 Greedy (rule-based),escape,HIGH,HIGH,1,0,0,1,45,4.15,0,0,49.4
 Greedy (rule-based),escape,HIGH,HIGH,2,0,0,1,45,2.05,0,0,42.0
@@ -3239,3 +4019,33 @@ Cautious planner,escape,HIGH,HIGH,26,1,0,0,24,28.8,0,0,24.7
 Cautious planner,escape,HIGH,HIGH,27,1,0,0,24,28.8,0,0,24.7
 Cautious planner,escape,HIGH,HIGH,28,1,0,0,24,28.8,0,0,24.7
 Cautious planner,escape,HIGH,HIGH,29,1,0,0,24,28.8,0,0,24.7
+Smart AI agent,escape,HIGH,HIGH,0,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,1,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,2,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,3,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,4,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,5,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,6,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,7,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,8,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,9,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,10,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,11,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,12,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,13,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,14,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,15,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,16,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,17,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,18,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,19,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,20,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,21,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,22,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,23,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,24,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,25,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,26,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,27,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,28,1,0,0,40,22.6,12,0,21.0
+Smart AI agent,escape,HIGH,HIGH,29,1,0,0,40,22.6,12,0,21.0

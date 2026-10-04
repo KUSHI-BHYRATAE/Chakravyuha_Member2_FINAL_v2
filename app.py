@@ -3,7 +3,10 @@ from __future__ import annotations
 import base64
 from pathlib import Path
 import streamlit as st
+import csv
+
 from src.environment import ChakravyuhaEnvironment
+from src.agent import SmartChakravyuhaAgent
 
 st.set_page_config(
     page_title="Chakravyuha Strategic AI Lab",
@@ -280,7 +283,8 @@ def render_grid(grid):
     return "".join(html)
 
 # ---------- Main tabs ----------
-t1, t2, t3 = st.tabs(["⚔️ LIVE BREACH", "🧠 INTELLIGENCE MAP", "🔬 RESEARCH MODE"])
+t1, t2, t3, t4 = st.tabs(["⚔️ LIVE BREACH", "🧠 INTELLIGENCE MAP",
+                          "🔬 RESEARCH MODE", "📊 EVALUATION"])
 
 with t1:
     left, right = st.columns([1.25, 0.9], gap="large")
@@ -331,29 +335,49 @@ with t1:
             )
             st.rerun()
     else:
-        st.info(
-            "AI Agent mode is ready for Member 1's decision engine. "
-            "Interface: get_observation() → choose action → step(action)."
-        )
+        # Member 1's decision engine. A fresh agent (empty memory) is created
+        # whenever the environment is reset or its settings change.
+        if st.session_state.get("agent_env") is not env:
+            st.session_state.agent = SmartChakravyuhaAgent()
+            st.session_state.agent_env = env
+            st.session_state.decision = None
+        agent = st.session_state.agent
 
-        def baseline_action(o):
-            valid = o["valid_actions"]
-            if "SCAN" in valid and o["uncertainty"] > 55:
-                return "SCAN"
-            x, y = o["agent"]
-            gx, gy = o["goal"]
-            if x > gx and "UP" in valid: return "UP"
-            if x < gx and "DOWN" in valid: return "DOWN"
-            if y > gy and "LEFT" in valid: return "LEFT"
-            if y < gy and "RIGHT" in valid: return "RIGHT"
-            return "WAIT" if "WAIT" in valid else valid[0]
+        if obs["terminal"]:
+            st.info("Episode finished. Reset the simulation to run the AI agent again.")
+        else:
+            # choose_action() updates the agent's memory, so ask only once per
+            # step (Streamlit reruns this script on every click).
+            decision = st.session_state.get("decision")
+            if not decision or decision["step"] != obs["step"]:
+                action, scores = agent.choose_action(obs)
+                decision = {"step": obs["step"], "action": action, "scores": scores}
+                st.session_state.decision = decision
 
-        suggested = baseline_action(obs)
-        st.info(f"Baseline environment agent suggests: **{suggested}**")
-        if st.button("🤖 EXECUTE AI ACTION", type="primary",
-                     use_container_width=True):
-            env.step(suggested)
-            st.rerun()
+            st.success(f"AI decision: **{decision['action']}**")
+            ranked = sorted(decision["scores"].items(), key=lambda kv: -kv[1])
+            st.caption(
+                "Reasoning: the agent scores every valid action from what it can "
+                "see (goal progress, visible threats, unknown cells, places "
+                "already visited or scanned) and picks the highest score."
+            )
+            st.table([{"Action": a, "Score": sc,
+                       "Chosen": "✔" if a == decision["action"] else ""}
+                      for a, sc in ranked])
+
+            c1, c2 = st.columns(2)
+            if c1.button("🤖 EXECUTE AI ACTION", type="primary",
+                         use_container_width=True):
+                env.step(decision["action"])
+                st.rerun()
+            if c2.button("⏩ RUN TO END", use_container_width=True):
+                action = decision["action"]
+                while True:
+                    o = env.step(action)
+                    if o["terminal"]:
+                        break
+                    action, _ = agent.choose_action(o)
+                st.rerun()
 
     if obs["terminal"]:
         if obs["success"]:
@@ -393,8 +417,37 @@ with t3:
         f"Step: {truth['step']}"
     )
 
+with t4:
+    st.markdown('<div class="section-title">Evaluation Results</div>',
+                unsafe_allow_html=True)
+    results_dir = Path(__file__).parent / "evaluation" / "results"
+    summary_file = results_dir / "summary_by_agent.csv"
+    if not summary_file.exists():
+        st.info("No results yet. Run:  python -m evaluation.experiments")
+    else:
+        with open(summary_file, newline="") as f:
+            rows = list(csv.DictReader(f))
+        st.caption(
+            f"Each agent was run for {rows[0]['episodes']} episodes across every "
+            "scenario, information level and difficulty."
+        )
+        columns = [("agent", "Agent"), ("success_rate", "Success %"),
+                   ("defeat_rate", "Defeat %"), ("timeout_rate", "Timeout %"),
+                   ("avg_reward", "Avg reward"), ("avg_steps", "Avg steps"),
+                   ("avg_scans", "Avg scans")]
+        st.table([{label: r[key] for key, label in columns} for r in rows])
+
+        g1, g2 = st.columns(2)
+        graphs = [("success_rate.png", g1), ("avg_reward.png", g2),
+                  ("success_vs_difficulty.png", g1),
+                  ("success_vs_information.png", g2), ("avg_steps.png", g1)]
+        for name, col in graphs:
+            if (results_dir / name).exists():
+                col.image(str(results_dir / name), use_container_width=True)
+
 st.divider()
 st.caption(
-    "Member 2: environment state • scenario generation • partial observability • "
-    "dynamic threats • action validation • reward • terminal logic • ground truth"
+    "Environment: state, scenarios, partial observability, rewards • "
+    "AI agent: score-based decision engine • "
+    "Evaluation: experiments, metrics and graphs"
 )

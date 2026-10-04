@@ -32,11 +32,11 @@ class RandomAgent:
 
 
 class AppBaselineAgent:
-    """The exact rule app.py runs in "AI Agent" mode today (copied from
-    baseline_action in app.py): scan while uncertainty is above 55%, otherwise
+    """The rule app.py used in "AI Agent" mode before Member 1's agent was
+    connected (the old baseline_action): scan while uncertainty is above 55%, otherwise
     step straight toward the goal."""
 
-    name = "App baseline (current)"
+    name = "Old app baseline"
 
     def __init__(self, seed=None):
         pass
@@ -166,8 +166,12 @@ def default_agents(seed=None):
     """Agents compared in the experiments. Add the team's AI agent here."""
     agents = [RandomAgent(seed), AppBaselineAgent(seed), GreedyAgent(seed),
               CautiousPlannerAgent(seed)]
-    # --- plug in the team's AI agent once it exists, e.g. ---
-    # from src.agent import DecisionAgent
-    # agents.append(DecisionAgent())
-    # needs .name, .reset() and .choose_action(obs)  (or .act(obs))
+    # Member 1's AI agent (src/agent.py)
+    try:
+        from src.agent import SmartChakravyuhaAgent
+        smart = SmartChakravyuhaAgent()
+        smart.name = "Smart AI agent"
+        agents.append(smart)
+    except ImportError:
+        pass  # agent file not in the repo yet -> baselines only
     return agents

@@ -32,7 +32,10 @@ def run_episode(env, agent):
         if obs["terminal"]:
             break
         choose = getattr(agent, "choose_action", None) or agent.act
-        obs = env.step(choose(obs))
+        action = choose(obs)
+        if isinstance(action, tuple):  # agent may return (action, scores)
+            action = action[0]
+        obs = env.step(action)
         if obs["last_event"] == "invalid_action":
             invalid += 1
     return invalid
