@@ -48,13 +48,15 @@ def run_episode(
     agent_name,
     scenario,
     information,
-    difficulty
+    difficulty,
+    episode
 ):
 
     env = ChakravyuhaEnvironment(
         scenario=scenario,
         information=information,
-        difficulty=difficulty
+        difficulty=difficulty,
+        seed=episode
     )
 
     observation = env.reset()
@@ -103,384 +105,250 @@ def run_episode(
 
 
     return {
-
-        "agent":
-            agent_name,
-
-        "scenario":
-            scenario,
-
-        "information":
-            information,
-
-        "difficulty":
-            difficulty,
-
-        "success":
-            observation["success"],
-
-        "steps":
-            observation["step"],
-
-        "reward":
-            observation["total_reward"],
-
-        "scans":
-            observation["scans"],
-
-        "final_event":
-            observation["last_event"]
+        "Agent": agent_name,
+        "Scenario": scenario.upper(),
+        "Information": information,
+        "Difficulty": difficulty,
+        "Episode": episode + 1,
+        "Success": int(
+            observation["success"]
+        ),
+        "Steps": observation["step"],
+        "Reward": observation["total_reward"],
+        "Scans": observation["scans"],
+        "Final_Event": observation["last_event"]
     }
 
 
 # ============================================================
-# RUN EXPERIMENTS
+# MAIN EVALUATION
 # ============================================================
 
-results = []
+if __name__ == "__main__":
 
+    random.seed(42)
 
-total_configs = (
+    results = []
 
-    len(AGENTS)
-    *
-    len(SCENARIOS)
-    *
-    len(INFORMATION_LEVELS)
-    *
-    len(DIFFICULTY_LEVELS)
-)
-
-
-config_number = 0
-
-
-print("=" * 75)
-print("CHAKRAVYUHA AI AGENT EVALUATION")
-print("=" * 75)
-
-
-for agent_name in AGENTS:
-
-    for scenario in SCENARIOS:
-
-        for information in INFORMATION_LEVELS:
-
-            for difficulty in DIFFICULTY_LEVELS:
-
-                config_number += 1
-
-                config_results = []
-
-
-                for episode in range(
-                    EPISODES_PER_CONFIG
-                ):
-
-                    result = run_episode(
-                        agent_name,
-                        scenario,
-                        information,
-                        difficulty
-                    )
-
-                    results.append(
-                        result
-                    )
-
-                    config_results.append(
-                        result
-                    )
-
-
-                success_rate = (
-
-                    sum(
-                        r["success"]
-                        for r in config_results
-                    )
-
-                    /
-                    EPISODES_PER_CONFIG
-
-                    *
-                    100
-                )
-
-
-                avg_reward = (
-
-                    sum(
-                        r["reward"]
-                        for r in config_results
-                    )
-
-                    /
-                    EPISODES_PER_CONFIG
-                )
-
-
-                avg_steps = (
-
-                    sum(
-                        r["steps"]
-                        for r in config_results
-                    )
-
-                    /
-                    EPISODES_PER_CONFIG
-                )
-
-
-                avg_scans = (
-
-                    sum(
-                        r["scans"]
-                        for r in config_results
-                    )
-
-                    /
-                    EPISODES_PER_CONFIG
-                )
-
-
-                print(
-                    f"\n[{config_number}/{total_configs}] "
-                    f"Agent={agent_name} | "
-                    f"Scenario={scenario.upper()} | "
-                    f"Information={information} | "
-                    f"Difficulty={difficulty}"
-                )
-
-
-                print(
-                    f"Success Rate : "
-                    f"{success_rate:.1f}%"
-                )
-
-                print(
-                    f"Average Reward: "
-                    f"{avg_reward:.2f}"
-                )
-
-                print(
-                    f"Average Steps : "
-                    f"{avg_steps:.2f}"
-                )
-
-                print(
-                    f"Average Scans : "
-                    f"{avg_scans:.2f}"
-                )
-
-
-# ============================================================
-# DATAFRAME
-# ============================================================
-
-df = pd.DataFrame(
-    results
-)
-
-
-# ============================================================
-# SAVE RESULTS
-# ============================================================
-
-os.makedirs(
-    "results",
-    exist_ok=True
-)
-
-
-output_file = os.path.join(
-    "results",
-    "agent_evaluation_results.csv"
-)
-
-
-df.to_csv(
-    output_file,
-    index=False
-)
-
-
-print(
-    "\nRaw experiment results saved to:",
-    output_file
-)
-
-
-# ============================================================
-# OVERALL COMPARISON
-# ============================================================
-
-print("\n")
-print("=" * 75)
-print("OVERALL AGENT COMPARISON")
-print("=" * 75)
-
-
-print(
-    f"{'Agent':<15}"
-    f"{'Success Rate':<18}"
-    f"{'Avg Reward':<15}"
-    f"{'Avg Steps':<15}"
-    f"{'Avg Scans':<15}"
-)
-
-
-print("-" * 75)
-
-
-for agent_name in AGENTS:
-
-    agent_df = df[
-        df["agent"]
-        ==
-        agent_name
-    ]
-
-
-    success_rate = (
-        agent_df["success"].mean()
+    total_runs = (
+        len(AGENTS)
         *
-        100
+        len(SCENARIOS)
+        *
+        len(INFORMATION_LEVELS)
+        *
+        len(DIFFICULTY_LEVELS)
+        *
+        EPISODES_PER_CONFIG
     )
 
-    avg_reward = (
-        agent_df["reward"].mean()
+    print("=" * 70)
+    print(
+        "CHAKRAVYUHA AI — AGENT EVALUATION"
     )
-
-    avg_steps = (
-        agent_df["steps"].mean()
-    )
-
-    avg_scans = (
-        agent_df["scans"].mean()
-    )
-
+    print("=" * 70)
 
     print(
-        f"{agent_name:<15}"
-        f"{success_rate:<18.2f}"
-        f"{avg_reward:<15.2f}"
-        f"{avg_steps:<15.2f}"
-        f"{avg_scans:<15.2f}"
+        f"Total evaluation runs: {total_runs}\n"
     )
-
-
-# ============================================================
-# INFORMATION LEVEL RESULTS
-# ============================================================
-
-print("\n")
-print("=" * 75)
-print("PERFORMANCE BY INFORMATION LEVEL")
-print("=" * 75)
-
-
-for information in INFORMATION_LEVELS:
-
-    print(
-        f"\nInformation Level: "
-        f"{information}"
-    )
-
-
-    subset = df[
-        df["information"]
-        ==
-        information
-    ]
 
 
     for agent_name in AGENTS:
 
-        agent_df = subset[
-            subset["agent"]
-            ==
-            agent_name
-        ]
-
-
-        success_rate = (
-            agent_df["success"].mean()
-            *
-            100
+        print(
+            f"\nEvaluating {agent_name} Agent..."
         )
 
+        for scenario in SCENARIOS:
 
-        avg_reward = (
-            agent_df["reward"].mean()
-        )
+            for information in INFORMATION_LEVELS:
 
+                for difficulty in DIFFICULTY_LEVELS:
+
+                    for episode in range(
+                        EPISODES_PER_CONFIG
+                    ):
+
+                        result = run_episode(
+                            agent_name,
+                            scenario,
+                            information,
+                            difficulty,
+                            episode
+                        )
+
+                        results.append(
+                            result
+                        )
 
         print(
-            f"{agent_name:<12} | "
-            f"Success: "
-            f"{success_rate:6.2f}% | "
-            f"Reward: "
-            f"{avg_reward:7.2f}"
+            f"✅ {agent_name} completed."
         )
 
 
-# ============================================================
-# DIFFICULTY RESULTS
-# ============================================================
+    # ========================================================
+    # DATAFRAME
+    # ========================================================
 
-print("\n")
-print("=" * 75)
-print("PERFORMANCE BY DIFFICULTY")
-print("=" * 75)
-
-
-for difficulty in DIFFICULTY_LEVELS:
-
-    print(
-        f"\nDifficulty: "
-        f"{difficulty}"
+    df = pd.DataFrame(
+        results
     )
 
 
-    subset = df[
-        df["difficulty"]
-        ==
-        difficulty
-    ]
+    # ========================================================
+    # SAVE RESULTS
+    # ========================================================
+
+    os.makedirs(
+        "results",
+        exist_ok=True
+    )
+
+    output_file = os.path.join(
+        "results",
+        "agent_evaluation_results.csv"
+    )
+
+    df.to_csv(
+        output_file,
+        index=False
+    )
 
 
-    for agent_name in AGENTS:
+    # ========================================================
+    # SUMMARY FUNCTION
+    # ========================================================
 
-        agent_df = subset[
-            subset["agent"]
-            ==
-            agent_name
+    def summarize(group_columns):
+
+        summary = (
+            df.groupby(group_columns)
+            .agg(
+                Success_Rate=(
+                    "Success",
+                    lambda x:
+                    x.mean() * 100
+                ),
+                Avg_Reward=(
+                    "Reward",
+                    "mean"
+                ),
+                Avg_Steps=(
+                    "Steps",
+                    "mean"
+                ),
+                Avg_Scans=(
+                    "Scans",
+                    "mean"
+                )
+            )
+            .reset_index()
+        )
+
+        for column in [
+            "Success_Rate",
+            "Avg_Reward",
+            "Avg_Steps",
+            "Avg_Scans"
+        ]:
+            summary[column] = (
+                summary[column]
+                .round(2)
+            )
+
+        return summary
+
+
+    # ========================================================
+    # OVERALL
+    # ========================================================
+
+    print(
+        "\n\n===== OVERALL AGENT COMPARISON =====\n"
+    )
+
+    overall = summarize(
+        ["Agent"]
+    )
+
+    print(
+        overall.to_string(
+            index=False
+        )
+    )
+
+
+    # ========================================================
+    # INFORMATION LEVEL
+    # ========================================================
+
+    print(
+        "\n\n===== INFORMATION LEVEL COMPARISON =====\n"
+    )
+
+    info_summary = summarize(
+        [
+            "Agent",
+            "Information"
         ]
+    )
 
-
-        success_rate = (
-            agent_df["success"].mean()
-            *
-            100
+    print(
+        info_summary.to_string(
+            index=False
         )
+    )
 
 
-        avg_reward = (
-            agent_df["reward"].mean()
+    # ========================================================
+    # DIFFICULTY LEVEL
+    # ========================================================
+
+    print(
+        "\n\n===== DIFFICULTY LEVEL COMPARISON =====\n"
+    )
+
+    difficulty_summary = summarize(
+        [
+            "Agent",
+            "Difficulty"
+        ]
+    )
+
+    print(
+        difficulty_summary.to_string(
+            index=False
         )
+    )
 
 
-        print(
-            f"{agent_name:<12} | "
-            f"Success: "
-            f"{success_rate:6.2f}% | "
-            f"Reward: "
-            f"{avg_reward:7.2f}"
+    # ========================================================
+    # SCENARIO
+    # ========================================================
+
+    print(
+        "\n\n===== SCENARIO COMPARISON =====\n"
+    )
+
+    scenario_summary = summarize(
+        [
+            "Agent",
+            "Scenario"
+        ]
+    )
+
+    print(
+        scenario_summary.to_string(
+            index=False
         )
+    )
 
 
-print("\n")
-print("=" * 75)
-print("EVALUATION COMPLETED")
-print("=" * 75)
+    print(
+        "\n✅ Evaluation complete!"
+    )
+
+    print(
+        "📁 Results saved as:",
+        output_file
+    )
