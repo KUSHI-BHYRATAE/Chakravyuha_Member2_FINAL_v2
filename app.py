@@ -236,6 +236,12 @@ if (env.scenario, env.information, env.difficulty) != (
 
 obs = env.get_observation()
 
+# Threat counts: use the observation if it provides them, otherwise derive
+# them from the environment (works with both environment versions).
+_known = getattr(env, "known_enemies", getattr(env, "_known_enemies", set()))
+obs.setdefault("visible_threats", len(_known))
+obs.setdefault("hidden_threats", len(env.state.enemies - set(_known)))
+
 # ---------- Header ----------
 st.markdown(
 """
@@ -407,14 +413,24 @@ with t3:
         "Ground truth is intentionally hidden from the decision agent and shown "
         "here only for evaluation/debugging."
     )
-    st.markdown(render_grid(env.true_world()), unsafe_allow_html=True)
     truth = env.ground_truth()
+    world = env.true_world()
+    if isinstance(world, dict):
+        # newer environment returns positions, not a grid: build the grid here
+        world = [["." for _ in range(env.SIZE)] for _ in range(env.SIZE)]
+        for r, c in truth["obstacles"]:
+            world[r][c] = "X"
+        for r, c in truth["enemies"]:
+            world[r][c] = "E"
+        world[truth["goal"][0]][truth["goal"][1]] = "G"
+        world[truth["agent"][0]][truth["agent"][1]] = "P"
+    st.markdown(render_grid(world), unsafe_allow_html=True)
     st.code(
-        f"Enemies: {truth['enemies']}\n"
-        f"Obstacles: {truth['obstacles']}\n"
+        f"Enemies: {sorted(truth['enemies'])}\n"
+        f"Obstacles: {sorted(truth['obstacles'])}\n"
         f"Agent: {truth['agent']}\n"
         f"Goal: {truth['goal']}\n"
-        f"Step: {truth['step']}"
+        f"Step: {truth.get('step', env.state.step)}"
     )
 
 with t4:
@@ -432,10 +448,11 @@ with t4:
             "scenario, information level and difficulty."
         )
         columns = [("agent", "Agent"), ("success_rate", "Success %"),
-                   ("defeat_rate", "Defeat %"), ("timeout_rate", "Timeout %"),
+                   ("timeout_rate", "Timeout %"),
+                   ("avg_enemy_encounters", "Enemy hits"),
                    ("avg_reward", "Avg reward"), ("avg_steps", "Avg steps"),
                    ("avg_scans", "Avg scans")]
-        st.table([{label: r[key] for key, label in columns} for r in rows])
+        st.table([{label: r.get(key, "-") for key, label in columns} for r in rows])
 
         g1, g2 = st.columns(2)
         graphs = [("success_rate.png", g1), ("avg_reward.png", g2),

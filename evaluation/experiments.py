@@ -23,10 +23,11 @@ DIFFICULTY = ["LOW", "MEDIUM", "HIGH"]
 
 
 def run_episode(env, agent):
-    """Play one episode. Returns the number of invalid actions the agent tried."""
+    """Play one episode. Returns (invalid actions tried, enemy encounters)."""
     obs = env.reset()
     agent.reset()
     invalid = 0
+    encounters = 0
     # invalid actions do not advance env.step, so cap the loop separately
     for _ in range(env.MAX_STEPS * 4):
         if obs["terminal"]:
@@ -38,7 +39,9 @@ def run_episode(env, agent):
         obs = env.step(action)
         if obs["last_event"] == "invalid_action":
             invalid += 1
-    return invalid
+        elif obs["last_event"] == "enemy_encounter":
+            encounters += 1
+    return invalid, encounters
 
 
 def run_all(episodes=30, seed=42):
@@ -49,8 +52,9 @@ def run_all(episodes=30, seed=42):
         for agent in agents:
             env = ChakravyuhaEnvironment(**config)
             for ep in range(episodes):
-                invalid = run_episode(env, agent)
-                rows.append(episode_record(env, agent.name, config, ep, invalid))
+                invalid, encounters = run_episode(env, agent)
+                rows.append(episode_record(env, agent.name, config, ep,
+                                           invalid, encounters))
     return rows
 
 
@@ -128,10 +132,11 @@ def main():
     make_plots(rows, args.out)
 
     print(f"\n{len(rows)} episodes run. Results saved in '{args.out}/'\n")
-    print(f"{'Agent':<28}{'Success%':>9}{'Defeat%':>9}{'Timeout%':>10}{'AvgReward':>11}{'AvgSteps':>10}{'AvgScans':>10}")
+    print(f"{'Agent':<28}{'Success%':>9}{'Timeout%':>10}{'AvgReward':>11}{'AvgSteps':>10}{'AvgScans':>10}{'EnemyHits':>11}")
     for r in by_agent:
-        print(f"{r['agent']:<28}{r['success_rate']:>9}{r['defeat_rate']:>9}{r['timeout_rate']:>10}"
-              f"{r['avg_reward']:>11}{r['avg_steps']:>10}{r['avg_scans']:>10}")
+        print(f"{r['agent']:<28}{r['success_rate']:>9}{r['timeout_rate']:>10}"
+              f"{r['avg_reward']:>11}{r['avg_steps']:>10}{r['avg_scans']:>10}"
+              f"{r['avg_enemy_encounters']:>11}")
 
 
 if __name__ == "__main__":

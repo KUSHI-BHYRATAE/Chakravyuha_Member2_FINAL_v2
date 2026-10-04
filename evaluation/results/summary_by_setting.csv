@@ -1,109 +1,109 @@
-agent,scenario,information,difficulty,episodes,success_rate,defeat_rate,timeout_rate,avg_reward,std_reward,avg_steps,avg_steps_when_success,avg_scans,avg_invalid_actions,avg_final_uncertainty
-Random,infiltration,LOW,LOW,30,0.0,80.0,20.0,-9.73,4.27,16.3,,2.7,0,80.9
-Greedy (rule-based),infiltration,LOW,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,77.8
-Cautious planner,infiltration,LOW,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,77.8
-Smart AI agent (proposed),infiltration,LOW,LOW,30,100.0,0.0,0.0,29.95,0.0,19,19,3,0,46.9
-Random,infiltration,LOW,MEDIUM,30,0.0,86.7,13.3,-11.13,2.88,11.5,,2.6,0,83.9
-Greedy (rule-based),infiltration,LOW,MEDIUM,30,100.0,0.0,0.0,29.07,0.65,26.7,26.7,0,0,47.6
-Cautious planner,infiltration,LOW,MEDIUM,30,100.0,0.0,0.0,28.6,0.0,22,22,0,0,46.9
-Smart AI agent (proposed),infiltration,LOW,MEDIUM,30,100.0,0.0,0.0,29.95,0.0,19,19,3,0,46.9
-Random,infiltration,LOW,HIGH,30,0.0,93.3,6.7,-11.67,1.34,9.5,,2.47,0,83.9
-Greedy (rule-based),infiltration,LOW,HIGH,30,66.7,0.0,33.3,21.63,12.12,40.3,37.9,0,0,42.7
-Cautious planner,infiltration,LOW,HIGH,30,100.0,0.0,0.0,29.4,0.0,30,30,0,0,34.6
-Smart AI agent (proposed),infiltration,LOW,HIGH,30,100.0,0.0,0.0,29.9,0.0,24,24,2,0,40.7
-Random,infiltration,MEDIUM,LOW,30,0.0,86.7,13.3,-10.19,3.73,12.1,,2.5,0,82.7
-Greedy (rule-based),infiltration,MEDIUM,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,80.2
-Cautious planner,infiltration,MEDIUM,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,80.2
-Smart AI agent (proposed),infiltration,MEDIUM,LOW,30,100.0,0.0,0.0,30.6,0.0,20,20,4,0,46.9
-Random,infiltration,MEDIUM,MEDIUM,30,0.0,90.0,10.0,-10.58,3.17,13.4,,2.27,0,84.5
-Greedy (rule-based),infiltration,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.25,0.54,28.5,28.5,0,0,47.4
-Cautious planner,infiltration,MEDIUM,MEDIUM,30,100.0,0.0,0.0,28.2,0.0,18,18,0,0,53.1
-Smart AI agent (proposed),infiltration,MEDIUM,MEDIUM,30,100.0,0.0,0.0,30.6,0.0,20,20,4,0,46.9
-Random,infiltration,MEDIUM,HIGH,30,0.0,80.0,20.0,-9.92,3.83,19.5,,4.23,0,80.9
-Greedy (rule-based),infiltration,MEDIUM,HIGH,30,46.7,0.0,53.3,16.45,12.97,42.2,39,0,0,44.9
-Cautious planner,infiltration,MEDIUM,HIGH,30,100.0,0.0,0.0,29.6,0.0,32,32,0,0,37.0
-Smart AI agent (proposed),infiltration,MEDIUM,HIGH,30,100.0,0.0,0.0,30.55,0.0,25,25,3,0,40.7
-Random,infiltration,HIGH,LOW,30,6.7,80.0,13.3,-9.76,8.71,13.7,25.5,3.07,0,75.9
-Greedy (rule-based),infiltration,HIGH,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,66.7
-Cautious planner,infiltration,HIGH,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,66.7
-Smart AI agent (proposed),infiltration,HIGH,LOW,30,100.0,0.0,0.0,26.25,0.0,5,5,1,0,66.7
-Random,infiltration,HIGH,MEDIUM,30,0.0,80.0,20.0,-11.16,2.76,14.2,,3.03,0,76.2
-Greedy (rule-based),infiltration,HIGH,MEDIUM,30,100.0,0.0,0.0,29.3,0.43,29,29,0,0,29.6
-Cautious planner,infiltration,HIGH,MEDIUM,30,100.0,0.0,0.0,28.2,0.0,18,18,0,0,32.1
-Smart AI agent (proposed),infiltration,HIGH,MEDIUM,30,100.0,0.0,0.0,27.65,0.0,19,19,1,0,32.1
-Random,infiltration,HIGH,HIGH,30,0.0,93.3,6.7,-12.5,2.25,9.8,,2.53,0,78.8
-Greedy (rule-based),infiltration,HIGH,HIGH,30,56.7,0.0,43.3,18.87,12.93,40.8,37.6,0,0,30.9
-Cautious planner,infiltration,HIGH,HIGH,30,100.0,0.0,0.0,28.8,0.0,24,24,0,0,24.7
-Smart AI agent (proposed),infiltration,HIGH,HIGH,30,100.0,0.0,0.0,28.65,0.0,29,29,1,0,27.2
-Random,reconnaissance,LOW,LOW,30,3.3,90.0,6.7,-10.41,7.07,11.9,8,1.73,0,82.8
-Greedy (rule-based),reconnaissance,LOW,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,77.8
-Cautious planner,reconnaissance,LOW,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,77.8
-Smart AI agent (proposed),reconnaissance,LOW,LOW,30,100.0,0.0,0.0,29.95,0.0,19,19,3,0,46.9
-Random,reconnaissance,LOW,MEDIUM,30,0.0,86.7,13.3,-10.91,3.1,11.8,,2.43,0,82.7
-Greedy (rule-based),reconnaissance,LOW,MEDIUM,30,100.0,0.0,0.0,29.07,0.57,26.7,26.7,0,0,47.2
-Cautious planner,reconnaissance,LOW,MEDIUM,30,100.0,0.0,0.0,28.6,0.0,22,22,0,0,46.9
-Smart AI agent (proposed),reconnaissance,LOW,MEDIUM,30,100.0,0.0,0.0,29.95,0.0,19,19,3,0,46.9
-Random,reconnaissance,LOW,HIGH,30,0.0,90.0,10.0,-11.7,2.16,12.1,,2.7,0,83.8
-Greedy (rule-based),reconnaissance,LOW,HIGH,30,46.7,0.0,53.3,16.35,13.01,41.9,38.4,0,0,47.3
-Cautious planner,reconnaissance,LOW,HIGH,30,100.0,0.0,0.0,29.4,0.0,30,30,0,0,34.6
-Smart AI agent (proposed),reconnaissance,LOW,HIGH,30,100.0,0.0,0.0,29.9,0.0,24,24,2,0,40.7
-Random,reconnaissance,MEDIUM,LOW,30,0.0,90.0,10.0,-10.68,2.84,12.7,,2.53,0,84.2
-Greedy (rule-based),reconnaissance,MEDIUM,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,80.2
-Cautious planner,reconnaissance,MEDIUM,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,80.2
-Smart AI agent (proposed),reconnaissance,MEDIUM,LOW,30,100.0,0.0,0.0,30.6,0.0,20,20,4,0,46.9
-Random,reconnaissance,MEDIUM,MEDIUM,30,0.0,93.3,6.7,-10.89,2.64,7.6,,1.37,0,86.0
-Greedy (rule-based),reconnaissance,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.47,0.62,30.7,30.7,0,0,46.6
-Cautious planner,reconnaissance,MEDIUM,MEDIUM,30,100.0,0.0,0.0,28.2,0.0,18,18,0,0,53.1
-Smart AI agent (proposed),reconnaissance,MEDIUM,MEDIUM,30,100.0,0.0,0.0,30.6,0.0,20,20,4,0,46.9
-Random,reconnaissance,MEDIUM,HIGH,30,0.0,96.7,3.3,-11.49,1.52,11.7,,2.7,0,84.5
-Greedy (rule-based),reconnaissance,MEDIUM,HIGH,30,46.7,0.0,53.3,16.24,13.08,41.8,38.1,0,0,47.1
-Cautious planner,reconnaissance,MEDIUM,HIGH,30,100.0,0.0,0.0,29.6,0.0,32,32,0,0,37.0
-Smart AI agent (proposed),reconnaissance,MEDIUM,HIGH,30,100.0,0.0,0.0,30.55,0.0,25,25,3,0,40.7
-Random,reconnaissance,HIGH,LOW,30,0.0,90.0,10.0,-12.11,2.22,10.0,,2.3,0,78.8
-Greedy (rule-based),reconnaissance,HIGH,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,66.7
-Cautious planner,reconnaissance,HIGH,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,66.7
-Smart AI agent (proposed),reconnaissance,HIGH,LOW,30,100.0,0.0,0.0,26.25,0.0,5,5,1,0,66.7
-Random,reconnaissance,HIGH,MEDIUM,30,0.0,93.3,6.7,-12.72,2.1,10.8,,2.63,0,78.5
-Greedy (rule-based),reconnaissance,HIGH,MEDIUM,30,100.0,0.0,0.0,29.25,0.58,28.5,28.5,0,0,29.5
-Cautious planner,reconnaissance,HIGH,MEDIUM,30,100.0,0.0,0.0,28.2,0.0,18,18,0,0,32.1
-Smart AI agent (proposed),reconnaissance,HIGH,MEDIUM,30,100.0,0.0,0.0,27.65,0.0,19,19,1,0,32.1
-Random,reconnaissance,HIGH,HIGH,30,0.0,90.0,10.0,-12.32,2.47,13.4,,2.53,0,77.8
-Greedy (rule-based),reconnaissance,HIGH,HIGH,30,46.7,0.0,53.3,16.48,12.92,42.1,38.7,0,0,30.6
-Cautious planner,reconnaissance,HIGH,HIGH,30,100.0,0.0,0.0,28.8,0.0,24,24,0,0,24.7
-Smart AI agent (proposed),reconnaissance,HIGH,HIGH,30,100.0,0.0,0.0,28.65,0.0,29,29,1,0,27.2
-Random,escape,LOW,LOW,30,0.0,43.3,56.7,-5.66,5.01,32.4,,7.63,0,60.8
-Greedy (rule-based),escape,LOW,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,74.1
-Cautious planner,escape,LOW,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,74.1
-Smart AI agent (proposed),escape,LOW,LOW,30,100.0,0.0,0.0,28.1,0.0,6,6,2,0,69.1
-Random,escape,LOW,MEDIUM,30,0.0,46.7,53.3,-6.77,5.08,30.5,,7.57,0,66.3
-Greedy (rule-based),escape,LOW,MEDIUM,30,93.3,0.0,6.7,28.1,6.23,34.3,33.6,0,0,43.7
-Cautious planner,escape,LOW,MEDIUM,30,100.0,0.0,0.0,28.6,0.0,22,22,0,0,46.9
-Smart AI agent (proposed),escape,LOW,MEDIUM,30,100.0,0.0,0.0,31.25,0.0,21,21,5,0,39.5
-Random,escape,LOW,HIGH,30,0.0,63.3,36.7,-8.46,5.54,27.0,,5.33,0,70.7
-Greedy (rule-based),escape,LOW,HIGH,30,13.3,0.0,86.7,7.27,9.15,44.5,41,0,0,54.8
-Cautious planner,escape,LOW,HIGH,30,100.0,0.0,0.0,29.2,0.0,28,28,0,0,33.3
-Smart AI agent (proposed),escape,LOW,HIGH,30,100.0,0.0,0.0,30.35,0.0,23,23,3,0,34.6
-Random,escape,MEDIUM,LOW,30,6.7,30.0,63.3,-2.5,9.12,36.3,24.5,7.47,0,64.3
-Greedy (rule-based),escape,MEDIUM,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,80.2
-Cautious planner,escape,MEDIUM,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,80.2
-Smart AI agent (proposed),escape,MEDIUM,LOW,30,100.0,0.0,0.0,28.75,0.0,7,7,3,0,69.1
-Random,escape,MEDIUM,MEDIUM,30,0.0,43.3,56.7,-6.11,5.69,36.2,,7.9,0,65.6
-Greedy (rule-based),escape,MEDIUM,MEDIUM,30,80.0,0.0,20.0,24.72,10.24,36.5,34.3,0,0,44.4
-Cautious planner,escape,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.2,0.0,28,28,0,0,46.9
-Smart AI agent (proposed),escape,MEDIUM,MEDIUM,30,100.0,0.0,0.0,31.9,0.0,22,22,6,0,39.5
-Random,escape,MEDIUM,HIGH,30,0.0,36.7,63.3,-4.91,4.97,35.7,,8.5,0,67.0
-Greedy (rule-based),escape,MEDIUM,HIGH,30,10.0,0.0,90.0,6.45,8.03,44.5,40,0,0,55.1
-Cautious planner,escape,MEDIUM,HIGH,30,100.0,0.0,0.0,29.8,0.0,34,34,0,0,33.3
-Smart AI agent (proposed),escape,MEDIUM,HIGH,30,100.0,0.0,0.0,31.0,0.0,24,24,4,0,34.6
-Random,escape,HIGH,LOW,30,3.3,40.0,56.7,-9.12,6.94,33.8,18,8.13,0,56.6
-Greedy (rule-based),escape,HIGH,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,70.4
-Cautious planner,escape,HIGH,LOW,30,100.0,0.0,0.0,26.8,0.0,4,4,0,0,70.4
-Smart AI agent (proposed),escape,HIGH,LOW,30,100.0,0.0,0.0,26.25,0.0,5,5,1,0,70.4
-Random,escape,HIGH,MEDIUM,30,0.0,70.0,30.0,-11.91,3.9,23.2,,5.57,0,66.1
-Greedy (rule-based),escape,HIGH,MEDIUM,30,83.3,0.0,16.7,25.54,9.38,35.3,33.4,0,0,28.7
-Cautious planner,escape,HIGH,MEDIUM,30,100.0,0.0,0.0,28.6,0.0,22,22,0,0,32.1
-Smart AI agent (proposed),escape,HIGH,MEDIUM,30,100.0,0.0,0.0,27.65,0.0,19,19,1,0,32.1
-Random,escape,HIGH,HIGH,30,0.0,60.0,40.0,-11.57,3.49,28,,7.3,0,62.5
-Greedy (rule-based),escape,HIGH,HIGH,30,6.7,0.0,93.3,5.18,6.8,44.7,40,0,0,41.0
-Cautious planner,escape,HIGH,HIGH,30,100.0,0.0,0.0,28.8,0.0,24,24,0,0,24.7
-Smart AI agent (proposed),escape,HIGH,HIGH,30,100.0,0.0,0.0,28.05,0.0,23,23,1,0,24.7
+agent,scenario,information,difficulty,episodes,success_rate,defeat_rate,timeout_rate,avg_reward,std_reward,avg_steps,avg_steps_when_success,avg_enemy_encounters,avg_scans,avg_invalid_actions,avg_final_uncertainty
+Random,infiltration,LOW,LOW,30,23.3,0.0,76.7,4.09,13.32,39.5,21.3,0.2,7.3,0,71.3
+Greedy (rule-based),infiltration,LOW,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,82.7
+Cautious planner,infiltration,LOW,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,80.2
+Smart AI agent (proposed),infiltration,LOW,LOW,30,100.0,0.0,0.0,27.8,0.0,6,6,0,2,0,80.2
+Random,infiltration,LOW,MEDIUM,30,10.0,0.0,90.0,-0.21,10.19,44.3,37.7,0.47,8.33,0,70.6
+Greedy (rule-based),infiltration,LOW,MEDIUM,30,100.0,0.0,0.0,28.85,0.49,9.8,9.8,0,0,0,69.7
+Cautious planner,infiltration,LOW,MEDIUM,30,100.0,0.0,0.0,29.7,0.0,11,11,0,1,0,66.7
+Smart AI agent (proposed),infiltration,LOW,MEDIUM,30,100.0,0.0,0.0,28.8,0.0,10,10,0,2,0,69.1
+Random,infiltration,LOW,HIGH,30,0.0,0.0,100.0,-3.46,4.47,45,,0.23,9.43,0,75.1
+Greedy (rule-based),infiltration,LOW,HIGH,30,66.7,0.0,33.3,26.08,10.77,34.2,28.8,0,0,0,45.3
+Cautious planner,infiltration,LOW,HIGH,30,100.0,0.0,0.0,33.7,0.0,27,27,0,1,0,38.3
+Smart AI agent (proposed),infiltration,LOW,HIGH,30,100.0,0.0,0.0,35.3,0.0,36,36,0,2,0,29.6
+Random,infiltration,MEDIUM,LOW,30,16.7,0.0,83.3,7.07,11.53,42.4,29.6,0.3,7.83,0,63.1
+Greedy (rule-based),infiltration,MEDIUM,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,80.2
+Cautious planner,infiltration,MEDIUM,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,80.2
+Smart AI agent (proposed),infiltration,MEDIUM,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,77.8
+Random,infiltration,MEDIUM,MEDIUM,30,6.7,0.0,93.3,4.35,8.6,44.4,36,0.27,8.03,0,67.2
+Greedy (rule-based),infiltration,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.0,0.51,10.4,10.4,0,0,0,68.9
+Cautious planner,infiltration,MEDIUM,MEDIUM,30,100.0,0.0,0.0,28.9,0.0,10,10,0,0,0,66.7
+Smart AI agent (proposed),infiltration,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.7,0.0,11,11,0,1,0,65.4
+Random,infiltration,MEDIUM,HIGH,30,0.0,0.0,100.0,0.68,7.02,45,,0.37,9.87,0,71.1
+Greedy (rule-based),infiltration,MEDIUM,HIGH,30,46.7,0.0,53.3,21.55,11.46,37.7,29.3,0,0,0,49.2
+Cautious planner,infiltration,MEDIUM,HIGH,30,100.0,0.0,0.0,32.9,0.0,26,26,0,0,0,38.3
+Smart AI agent (proposed),infiltration,MEDIUM,HIGH,30,100.0,0.0,0.0,35.7,0.0,35,35,0,1,0,29.6
+Random,infiltration,HIGH,LOW,30,16.7,0.0,83.3,8.43,10.51,40.9,20.6,0.17,7.77,0,57.8
+Greedy (rule-based),infiltration,HIGH,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,77.8
+Cautious planner,infiltration,HIGH,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,77.8
+Smart AI agent (proposed),infiltration,HIGH,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,70.4
+Random,infiltration,HIGH,MEDIUM,30,6.7,0.0,93.3,3.3,8.69,44.4,35.5,0.37,8.7,0,60.0
+Greedy (rule-based),infiltration,HIGH,MEDIUM,30,100.0,0.0,0.0,28.93,0.55,10.1,10.1,0,0,0,68.1
+Cautious planner,infiltration,HIGH,MEDIUM,30,100.0,0.0,0.0,28.9,0.0,10,10,0,0,0,65.4
+Smart AI agent (proposed),infiltration,HIGH,MEDIUM,30,100.0,0.0,0.0,29.2,0.0,9,9,0,1,0,64.2
+Random,infiltration,HIGH,HIGH,30,0.0,0.0,100.0,1.41,4.45,45,,0.23,10.03,0,60.0
+Greedy (rule-based),infiltration,HIGH,HIGH,30,63.3,0.0,36.7,25.35,10.77,34.3,28.1,0,0,0,44.0
+Cautious planner,infiltration,HIGH,HIGH,30,100.0,0.0,0.0,32.9,0.0,26,26,0,0,0,37.0
+Smart AI agent (proposed),infiltration,HIGH,HIGH,30,100.0,0.0,0.0,35.2,0.0,33,33,0,1,0,27.2
+Random,reconnaissance,LOW,LOW,30,30.0,0.0,70.0,5.51,13.81,40.0,28.2,0.4,8.3,0,68.6
+Greedy (rule-based),reconnaissance,LOW,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,82.7
+Cautious planner,reconnaissance,LOW,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,80.2
+Smart AI agent (proposed),reconnaissance,LOW,LOW,30,100.0,0.0,0.0,27.8,0.0,6,6,0,2,0,80.2
+Random,reconnaissance,LOW,MEDIUM,30,20.0,0.0,80.0,3.08,13.06,42.5,32.7,0.33,7.67,0,70.1
+Greedy (rule-based),reconnaissance,LOW,MEDIUM,30,100.0,0.0,0.0,28.97,0.67,10.3,10.3,0,0,0,69.3
+Cautious planner,reconnaissance,LOW,MEDIUM,30,100.0,0.0,0.0,29.7,0.0,11,11,0,1,0,66.7
+Smart AI agent (proposed),reconnaissance,LOW,MEDIUM,30,100.0,0.0,0.0,28.8,0.0,10,10,0,2,0,69.1
+Random,reconnaissance,LOW,HIGH,30,0.0,0.0,100.0,-2.21,3.15,45,,0.17,8.03,0,74.0
+Greedy (rule-based),reconnaissance,LOW,HIGH,30,53.3,0.0,46.7,22.67,11.01,34.7,25.8,0,0,0,47.4
+Cautious planner,reconnaissance,LOW,HIGH,30,100.0,0.0,0.0,33.7,0.0,27,27,0,1,0,38.3
+Smart AI agent (proposed),reconnaissance,LOW,HIGH,30,100.0,0.0,0.0,35.3,0.0,36,36,0,2,0,29.6
+Random,reconnaissance,MEDIUM,LOW,30,13.3,0.0,86.7,5.66,10.8,43.5,33.8,0.3,8.2,0,64.1
+Greedy (rule-based),reconnaissance,MEDIUM,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,80.2
+Cautious planner,reconnaissance,MEDIUM,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,80.2
+Smart AI agent (proposed),reconnaissance,MEDIUM,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,77.8
+Random,reconnaissance,MEDIUM,MEDIUM,30,10.0,0.0,90.0,2.91,10.72,44.3,37.7,0.57,8.7,0,67.4
+Greedy (rule-based),reconnaissance,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.03,0.56,10.5,10.5,0,0,0,68.7
+Cautious planner,reconnaissance,MEDIUM,MEDIUM,30,100.0,0.0,0.0,28.9,0.0,10,10,0,0,0,66.7
+Smart AI agent (proposed),reconnaissance,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.7,0.0,11,11,0,1,0,65.4
+Random,reconnaissance,MEDIUM,HIGH,30,0.0,0.0,100.0,1.32,4.55,45,,0.13,9.3,0,70.5
+Greedy (rule-based),reconnaissance,MEDIUM,HIGH,30,66.7,0.0,33.3,26.92,11.29,37.5,33.7,0,0,0,41.9
+Cautious planner,reconnaissance,MEDIUM,HIGH,30,100.0,0.0,0.0,32.9,0.0,26,26,0,0,0,38.3
+Smart AI agent (proposed),reconnaissance,MEDIUM,HIGH,30,100.0,0.0,0.0,35.7,0.0,35,35,0,1,0,29.6
+Random,reconnaissance,HIGH,LOW,30,20.0,0.0,80.0,7.65,11.97,41.2,26,0.27,8.33,0,55.6
+Greedy (rule-based),reconnaissance,HIGH,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,77.8
+Cautious planner,reconnaissance,HIGH,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,77.8
+Smart AI agent (proposed),reconnaissance,HIGH,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,70.4
+Random,reconnaissance,HIGH,MEDIUM,30,6.7,0.0,93.3,3.49,8.62,44.5,37,0.3,9.5,0,55.7
+Greedy (rule-based),reconnaissance,HIGH,MEDIUM,30,100.0,0.0,0.0,29.1,0.54,10.8,10.8,0,0,0,67.3
+Cautious planner,reconnaissance,HIGH,MEDIUM,30,100.0,0.0,0.0,28.9,0.0,10,10,0,0,0,65.4
+Smart AI agent (proposed),reconnaissance,HIGH,MEDIUM,30,100.0,0.0,0.0,29.2,0.0,9,9,0,1,0,64.2
+Random,reconnaissance,HIGH,HIGH,30,0.0,0.0,100.0,0.83,5.28,45,,0.33,8.7,0,57.9
+Greedy (rule-based),reconnaissance,HIGH,HIGH,30,50.0,0.0,50.0,22.49,11.5,37.5,30,0,0,0,45.6
+Cautious planner,reconnaissance,HIGH,HIGH,30,100.0,0.0,0.0,32.9,0.0,26,26,0,0,0,37.0
+Smart AI agent (proposed),reconnaissance,HIGH,HIGH,30,100.0,0.0,0.0,35.2,0.0,33,33,0,1,0,27.2
+Random,escape,LOW,LOW,30,13.3,0.0,86.7,0.73,10.45,42.9,29,0.37,8.17,0,62.6
+Greedy (rule-based),escape,LOW,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,84.0
+Cautious planner,escape,LOW,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,80.2
+Smart AI agent (proposed),escape,LOW,LOW,30,100.0,0.0,0.0,27.8,0.0,6,6,0,2,0,80.2
+Random,escape,LOW,MEDIUM,30,6.7,0.0,93.3,-3.87,9.05,44.9,43.5,0.67,9.27,0,66.1
+Greedy (rule-based),escape,LOW,MEDIUM,30,100.0,0.0,0.0,29.37,1.23,11.9,11.9,0,0,0,67.6
+Cautious planner,escape,LOW,MEDIUM,30,100.0,0.0,0.0,29.7,0.0,11,11,0,1,0,69.1
+Smart AI agent (proposed),escape,LOW,MEDIUM,30,100.0,0.0,0.0,28.8,0.0,10,10,0,2,0,71.6
+Random,escape,LOW,HIGH,30,0.0,0.0,100.0,-7.3,5.96,45,,0.63,10.43,0,70.3
+Greedy (rule-based),escape,LOW,HIGH,30,63.3,0.0,36.7,25.37,11.06,35.0,29.3,0,0,0,46.3
+Cautious planner,escape,LOW,HIGH,30,100.0,0.0,0.0,32.2,0.0,21,21,0,1,0,50.6
+Smart AI agent (proposed),escape,LOW,HIGH,30,100.0,0.0,0.0,37.3,0.0,44,44,0,2,0,32.1
+Random,escape,MEDIUM,LOW,30,16.7,0.0,83.3,6.69,10.4,40.8,20,0.5,6.93,0,58.7
+Greedy (rule-based),escape,MEDIUM,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,80.2
+Cautious planner,escape,MEDIUM,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,80.2
+Smart AI agent (proposed),escape,MEDIUM,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,74.1
+Random,escape,MEDIUM,MEDIUM,30,3.3,0.0,96.7,-0.54,9.39,44.7,35,0.9,8.57,0,58.4
+Greedy (rule-based),escape,MEDIUM,MEDIUM,30,100.0,0.0,0.0,28.97,0.88,10.3,10.3,0,0,0,68.8
+Cautious planner,escape,MEDIUM,MEDIUM,30,100.0,0.0,0.0,28.9,0.0,10,10,0,0,0,69.1
+Smart AI agent (proposed),escape,MEDIUM,MEDIUM,30,100.0,0.0,0.0,29.7,0.0,11,11,0,1,0,64.2
+Random,escape,MEDIUM,HIGH,30,0.0,0.0,100.0,-1.16,3.65,45,,0.27,10.97,0,61.6
+Greedy (rule-based),escape,MEDIUM,HIGH,30,76.7,0.0,23.3,28.58,9.94,33.8,30.3,0,0,0,45.4
+Cautious planner,escape,MEDIUM,HIGH,30,100.0,0.0,0.0,31.4,0.0,20,20,0,0,0,50.6
+Smart AI agent (proposed),escape,MEDIUM,HIGH,30,100.0,0.0,0.0,37.7,0.0,43,43,0,1,0,30.9
+Random,escape,HIGH,LOW,30,3.3,0.0,96.7,4.53,6.71,43.9,13,0.3,7.7,0,42.8
+Greedy (rule-based),escape,HIGH,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,74.1
+Cautious planner,escape,HIGH,LOW,30,100.0,0.0,0.0,27.4,0.0,4,4,0,0,0,74.1
+Smart AI agent (proposed),escape,HIGH,LOW,30,100.0,0.0,0.0,28.2,0.0,5,5,0,1,0,66.7
+Random,escape,HIGH,MEDIUM,30,3.3,0.0,96.7,0.95,8.96,44.9,42,0.87,7.97,0,43.2
+Greedy (rule-based),escape,HIGH,MEDIUM,30,100.0,0.0,0.0,29.13,0.74,10.9,10.9,0,0,0,64.3
+Cautious planner,escape,HIGH,MEDIUM,30,100.0,0.0,0.0,28.9,0.0,10,10,0,0,0,64.2
+Smart AI agent (proposed),escape,HIGH,MEDIUM,30,100.0,0.0,0.0,29.2,0.0,9,9,0,1,0,61.7
+Random,escape,HIGH,HIGH,30,0.0,0.0,100.0,-1.43,3.91,45,,0.5,10.83,0,45.9
+Greedy (rule-based),escape,HIGH,HIGH,30,80.0,0.0,20.0,29.75,9.55,34.8,32.2,0,0,0,41.0
+Cautious planner,escape,HIGH,HIGH,30,100.0,0.0,0.0,31.4,0.0,20,20,0,0,0,49.4
+Smart AI agent (proposed),escape,HIGH,HIGH,30,100.0,0.0,0.0,34.7,0.0,31,31,0,1,0,25.9

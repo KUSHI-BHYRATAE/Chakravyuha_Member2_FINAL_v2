@@ -4,10 +4,13 @@ from __future__ import annotations
 from statistics import mean, pstdev
 
 
-def episode_record(env, agent_name, config, episode, invalid_actions):
+def episode_record(env, agent_name, config, episode, invalid_actions,
+                   enemy_encounters=0):
     """One row describing how a single episode ended."""
     s = env.state
     obs = env.get_observation()
+    failed = s.terminal and not s.success
+    timed_out = failed and s.step >= env.MAX_STEPS
     return {
         "agent": agent_name,
         "scenario": config["scenario"],
@@ -15,8 +18,9 @@ def episode_record(env, agent_name, config, episode, invalid_actions):
         "difficulty": config["difficulty"],
         "episode": episode,
         "success": int(s.success),
-        "defeated": int(s.last_event == "agent_defeated"),
-        "timed_out": int(s.last_event == "step_limit_reached"),
+        "defeated": int(failed and not timed_out),
+        "timed_out": int(timed_out),
+        "enemy_encounters": enemy_encounters,
         "steps": s.step,
         "total_reward": round(s.total_reward, 2),
         "scans": s.scans,
@@ -38,6 +42,7 @@ def summarise(rows):
         "std_reward": round(pstdev(r["total_reward"] for r in rows), 2),
         "avg_steps": round(mean(r["steps"] for r in rows), 1),
         "avg_steps_when_success": round(mean(r["steps"] for r in wins), 1) if wins else None,
+        "avg_enemy_encounters": round(mean(r["enemy_encounters"] for r in rows), 2),
         "avg_scans": round(mean(r["scans"] for r in rows), 2),
         "avg_invalid_actions": round(mean(r["invalid_actions"] for r in rows), 2),
         "avg_final_uncertainty": round(mean(r["final_uncertainty"] for r in rows), 1),
